@@ -1,0 +1,1 @@
+./logs/ucihar/ce_warmp20_gr\checkpoint\checkpoint.pth.tar

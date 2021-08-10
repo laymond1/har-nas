@@ -1,0 +1,8 @@
+{
+    "param": "0.58M",
+    "flops": "1.0M",
+    "s9 latency": {
+        "val": 1.25,
+        "hist": null
+    }
+}

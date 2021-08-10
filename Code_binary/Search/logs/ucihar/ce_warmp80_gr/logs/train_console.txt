@@ -1,0 +1,720 @@
+Warmup Train [1][0/57]	Time 0.638 (0.638)	Data 0.003 (0.003)	Loss 1.8262 (1.8262)	Top-1 acc 20.312 (20.312)	Top-5 acc 89.062 (89.062)	lr 0.05000
+Warmup Train [1][30/57]	Time 0.008 (0.090)	Data 0.002 (0.002)	Loss 1.4084 (1.5356)	Top-1 acc 27.344 (29.536)	Top-5 acc 100.000 (95.237)	lr 0.04999
+Warmup Train [1][57/57]	Time 0.174 (0.055)	Data 0.001 (0.002)	Loss 1.3808 (1.4174)	Top-1 acc 35.714 (31.991)	Top-5 acc 94.643 (97.225)	lr 0.04998
+==========Warmup Valid [1/80]	loss 1.623	top-1 acc 24.907	top-5 acc 91.042	Train top-1 31.991	top-5 97.225	flops: 1.5M	mobile: 0.321ms
+Warmup Train [2][0/57]	Time 0.014 (0.014)	Data 0.003 (0.003)	Loss 1.2210 (1.2210)	Top-1 acc 45.312 (45.312)	Top-5 acc 100.000 (100.000)	lr 0.04998
+Warmup Train [2][30/57]	Time 0.008 (0.009)	Data 0.002 (0.002)	Loss 1.0659 (1.2732)	Top-1 acc 44.531 (35.433)	Top-5 acc 100.000 (99.420)	lr 0.04996
+Warmup Train [2][57/57]	Time 0.014 (0.009)	Data 0.001 (0.002)	Loss 1.1742 (1.2162)	Top-1 acc 30.357 (34.684)	Top-5 acc 100.000 (99.660)	lr 0.04992
+==========Warmup Valid [2/80]	loss 2.022	top-1 acc 20.428	top-5 acc 88.429	Train top-1 34.684	top-5 99.660	flops: 1.5M	mobile: 0.321ms
+Warmup Train [3][0/57]	Time 0.014 (0.014)	Data 0.002 (0.002)	Loss 1.1254 (1.1254)	Top-1 acc 36.719 (36.719)	Top-5 acc 100.000 (100.000)	lr 0.04992
+Warmup Train [3][30/57]	Time 0.009 (0.010)	Data 0.001 (0.002)	Loss 1.1250 (1.1334)	Top-1 acc 31.250 (36.013)	Top-5 acc 100.000 (99.950)	lr 0.04988
+Warmup Train [3][57/57]	Time 0.012 (0.010)	Data 0.000 (0.002)	Loss 1.1717 (1.1340)	Top-1 acc 33.929 (36.344)	Top-5 acc 100.000 (99.932)	lr 0.04983
+==========Warmup Valid [3/80]	loss 1.494	top-1 acc 27.011	top-5 acc 95.046	Train top-1 36.344	top-5 99.932	flops: 1.5M	mobile: 0.321ms
+Warmup Train [4][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 1.1101 (1.1101)	Top-1 acc 39.844 (39.844)	Top-5 acc 100.000 (100.000)	lr 0.04983
+Warmup Train [4][30/57]	Time 0.009 (0.010)	Data 0.002 (0.002)	Loss 1.0804 (1.1098)	Top-1 acc 39.844 (37.550)	Top-5 acc 100.000 (99.975)	lr 0.04976
+Warmup Train [4][57/57]	Time 0.207 (0.013)	Data 0.001 (0.002)	Loss 1.1291 (1.1056)	Top-1 acc 35.714 (38.112)	Top-5 acc 100.000 (99.986)	lr 0.04969
+==========Warmup Valid [4/80]	loss 1.259	top-1 acc 32.542	top-5 acc 98.643	Train top-1 38.112	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [5][0/57]	Time 0.016 (0.016)	Data 0.003 (0.003)	Loss 1.0649 (1.0649)	Top-1 acc 38.281 (38.281)	Top-5 acc 100.000 (100.000)	lr 0.04969
+Warmup Train [5][30/57]	Time 0.008 (0.010)	Data 0.001 (0.002)	Loss 1.1122 (1.1051)	Top-1 acc 44.531 (39.491)	Top-5 acc 100.000 (99.950)	lr 0.04961
+Warmup Train [5][57/57]	Time 0.054 (0.011)	Data 0.000 (0.002)	Loss 0.9720 (1.0970)	Top-1 acc 50.000 (39.785)	Top-5 acc 100.000 (99.973)	lr 0.04952
+==========Warmup Valid [5/80]	loss 1.111	top-1 acc 36.308	top-5 acc 100.000	Train top-1 39.785	top-5 99.973	flops: 1.5M	mobile: 0.321ms
+Warmup Train [6][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 1.0902 (1.0902)	Top-1 acc 31.250 (31.250)	Top-5 acc 100.000 (100.000)	lr 0.04952
+Warmup Train [6][30/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 1.0548 (1.0703)	Top-1 acc 39.062 (38.962)	Top-5 acc 100.000 (99.975)	lr 0.04942
+Warmup Train [6][57/57]	Time 0.011 (0.009)	Data 0.001 (0.002)	Loss 1.0992 (1.0612)	Top-1 acc 32.143 (40.098)	Top-5 acc 100.000 (99.986)	lr 0.04931
+==========Warmup Valid [6/80]	loss 1.045	top-1 acc 40.618	top-5 acc 100.000	Train top-1 40.098	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [7][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 1.0742 (1.0742)	Top-1 acc 36.719 (36.719)	Top-5 acc 100.000 (100.000)	lr 0.04931
+Warmup Train [7][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 1.2140 (1.0769)	Top-1 acc 35.156 (40.726)	Top-5 acc 100.000 (99.899)	lr 0.04919
+Warmup Train [7][57/57]	Time 0.028 (0.009)	Data 0.000 (0.001)	Loss 1.0166 (1.0769)	Top-1 acc 44.643 (40.669)	Top-5 acc 100.000 (99.946)	lr 0.04907
+==========Warmup Valid [7/80]	loss 1.184	top-1 acc 34.102	top-5 acc 100.000	Train top-1 40.669	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Train [8][0/57]	Time 0.010 (0.010)	Data 0.003 (0.003)	Loss 1.4923 (1.4923)	Top-1 acc 31.250 (31.250)	Top-5 acc 100.000 (100.000)	lr 0.04906
+Warmup Train [8][30/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 1.0450 (1.0626)	Top-1 acc 39.844 (41.583)	Top-5 acc 100.000 (100.000)	lr 0.04892
+Warmup Train [8][57/57]	Time 0.007 (0.009)	Data 0.001 (0.002)	Loss 0.9944 (1.0674)	Top-1 acc 42.857 (41.445)	Top-5 acc 100.000 (99.986)	lr 0.04878
+==========Warmup Valid [8/80]	loss 1.115	top-1 acc 41.127	top-5 acc 99.966	Train top-1 41.445	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [9][0/57]	Time 0.009 (0.009)	Data 0.001 (0.001)	Loss 1.1272 (1.1272)	Top-1 acc 44.531 (44.531)	Top-5 acc 100.000 (100.000)	lr 0.04878
+Warmup Train [9][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 1.1047 (1.0686)	Top-1 acc 35.156 (40.852)	Top-5 acc 100.000 (99.849)	lr 0.04861
+Warmup Train [9][57/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 1.2289 (1.0800)	Top-1 acc 30.357 (40.479)	Top-5 acc 100.000 (99.864)	lr 0.04846
+==========Warmup Valid [9/80]	loss 1.038	top-1 acc 38.446	top-5 acc 100.000	Train top-1 40.479	top-5 99.864	flops: 1.5M	mobile: 0.321ms
+Warmup Train [10][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 1.0539 (1.0539)	Top-1 acc 35.156 (35.156)	Top-5 acc 100.000 (100.000)	lr 0.04845
+Warmup Train [10][30/57]	Time 0.008 (0.009)	Data 0.002 (0.001)	Loss 1.0277 (1.0812)	Top-1 acc 45.312 (41.583)	Top-5 acc 100.000 (99.899)	lr 0.04827
+Warmup Train [10][57/57]	Time 0.012 (0.009)	Data 0.001 (0.002)	Loss 0.9058 (1.0425)	Top-1 acc 51.786 (43.077)	Top-5 acc 100.000 (99.946)	lr 0.04810
+==========Warmup Valid [10/80]	loss 1.035	top-1 acc 43.061	top-5 acc 100.000	Train top-1 43.077	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Train [11][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 1.0206 (1.0206)	Top-1 acc 39.844 (39.844)	Top-5 acc 100.000 (100.000)	lr 0.04810
+Warmup Train [11][30/57]	Time 0.007 (0.009)	Data 0.001 (0.001)	Loss 1.0248 (1.0655)	Top-1 acc 43.750 (42.540)	Top-5 acc 100.000 (99.975)	lr 0.04790
+Warmup Train [11][57/57]	Time 0.012 (0.009)	Data 0.001 (0.001)	Loss 1.1600 (1.0746)	Top-1 acc 28.571 (41.866)	Top-5 acc 100.000 (99.959)	lr 0.04771
+==========Warmup Valid [11/80]	loss 1.039	top-1 acc 43.841	top-5 acc 99.932	Train top-1 41.866	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Train [12][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.9269 (0.9269)	Top-1 acc 47.656 (47.656)	Top-5 acc 100.000 (100.000)	lr 0.04770
+Warmup Train [12][30/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.9168 (1.0094)	Top-1 acc 56.250 (44.153)	Top-5 acc 100.000 (99.975)	lr 0.04749
+Warmup Train [12][57/57]	Time 0.013 (0.009)	Data 0.001 (0.002)	Loss 0.9604 (1.0210)	Top-1 acc 46.429 (43.770)	Top-5 acc 100.000 (99.959)	lr 0.04728
+==========Warmup Valid [12/80]	loss 1.062	top-1 acc 39.667	top-5 acc 100.000	Train top-1 43.770	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Train [13][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 0.9831 (0.9831)	Top-1 acc 50.781 (50.781)	Top-5 acc 99.219 (99.219)	lr 0.04728
+Warmup Train [13][30/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 1.0243 (1.1355)	Top-1 acc 41.406 (41.683)	Top-5 acc 99.219 (99.723)	lr 0.04704
+Warmup Train [13][57/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 0.9663 (1.0846)	Top-1 acc 50.000 (42.478)	Top-5 acc 100.000 (99.837)	lr 0.04682
+==========Warmup Valid [13/80]	loss 1.034	top-1 acc 41.228	top-5 acc 100.000	Train top-1 42.478	top-5 99.837	flops: 1.5M	mobile: 0.321ms
+Warmup Train [14][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 1.0110 (1.0110)	Top-1 acc 36.719 (36.719)	Top-5 acc 100.000 (100.000)	lr 0.04681
+Warmup Train [14][30/57]	Time 0.008 (0.008)	Data 0.002 (0.001)	Loss 0.9361 (0.9556)	Top-1 acc 42.969 (45.615)	Top-5 acc 100.000 (99.975)	lr 0.04656
+Warmup Train [14][57/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 1.0007 (0.9941)	Top-1 acc 44.643 (44.219)	Top-5 acc 100.000 (99.959)	lr 0.04632
+==========Warmup Valid [14/80]	loss 1.115	top-1 acc 39.905	top-5 acc 99.762	Train top-1 44.219	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Train [15][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.9049 (0.9049)	Top-1 acc 49.219 (49.219)	Top-5 acc 100.000 (100.000)	lr 0.04632
+Warmup Train [15][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 0.9764 (0.9844)	Top-1 acc 47.656 (44.128)	Top-5 acc 100.000 (99.924)	lr 0.04605
+Warmup Train [15][57/57]	Time 0.011 (0.009)	Data 0.001 (0.002)	Loss 1.0021 (0.9968)	Top-1 acc 48.214 (44.192)	Top-5 acc 100.000 (99.959)	lr 0.04580
+==========Warmup Valid [15/80]	loss 1.038	top-1 acc 40.719	top-5 acc 100.000	Train top-1 44.192	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Train [16][0/57]	Time 0.012 (0.012)	Data 0.003 (0.003)	Loss 0.9802 (0.9802)	Top-1 acc 49.219 (49.219)	Top-5 acc 100.000 (100.000)	lr 0.04579
+Warmup Train [16][30/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 1.0277 (1.0197)	Top-1 acc 39.844 (44.027)	Top-5 acc 100.000 (99.798)	lr 0.04550
+Warmup Train [16][57/57]	Time 0.189 (0.012)	Data 0.001 (0.001)	Loss 0.9958 (1.0395)	Top-1 acc 41.071 (43.798)	Top-5 acc 100.000 (99.878)	lr 0.04524
+==========Warmup Valid [16/80]	loss 1.087	top-1 acc 40.346	top-5 acc 100.000	Train top-1 43.798	top-5 99.878	flops: 1.5M	mobile: 0.321ms
+Warmup Train [17][0/57]	Time 0.012 (0.012)	Data 0.003 (0.003)	Loss 1.0072 (1.0072)	Top-1 acc 44.531 (44.531)	Top-5 acc 100.000 (100.000)	lr 0.04523
+Warmup Train [17][30/57]	Time 0.009 (0.008)	Data 0.002 (0.002)	Loss 0.9833 (0.9500)	Top-1 acc 38.281 (46.195)	Top-5 acc 100.000 (100.000)	lr 0.04492
+Warmup Train [17][57/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.9061 (0.9582)	Top-1 acc 55.357 (45.906)	Top-5 acc 100.000 (99.973)	lr 0.04464
+==========Warmup Valid [17/80]	loss 0.928	top-1 acc 46.149	top-5 acc 100.000	Train top-1 45.906	top-5 99.973	flops: 1.5M	mobile: 0.321ms
+Warmup Train [18][0/57]	Time 0.010 (0.010)	Data 0.003 (0.003)	Loss 0.9087 (0.9087)	Top-1 acc 48.438 (48.438)	Top-5 acc 100.000 (100.000)	lr 0.04463
+Warmup Train [18][30/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.9471 (0.9597)	Top-1 acc 42.188 (45.186)	Top-5 acc 100.000 (100.000)	lr 0.04431
+Warmup Train [18][57/57]	Time 0.007 (0.009)	Data 0.001 (0.002)	Loss 1.1360 (0.9575)	Top-1 acc 46.429 (45.729)	Top-5 acc 100.000 (99.986)	lr 0.04402
+==========Warmup Valid [18/80]	loss 0.937	top-1 acc 46.827	top-5 acc 100.000	Train top-1 45.729	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [19][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8431 (0.8431)	Top-1 acc 52.344 (52.344)	Top-5 acc 100.000 (100.000)	lr 0.04401
+Warmup Train [19][30/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.9543 (0.9482)	Top-1 acc 42.969 (44.783)	Top-5 acc 100.000 (100.000)	lr 0.04368
+Warmup Train [19][57/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.8513 (0.9537)	Top-1 acc 53.571 (45.906)	Top-5 acc 100.000 (99.973)	lr 0.04337
+==========Warmup Valid [19/80]	loss 0.905	top-1 acc 48.252	top-5 acc 100.000	Train top-1 45.906	top-5 99.973	flops: 1.5M	mobile: 0.321ms
+Warmup Train [20][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.8696 (0.8696)	Top-1 acc 44.531 (44.531)	Top-5 acc 100.000 (100.000)	lr 0.04336
+Warmup Train [20][30/57]	Time 0.007 (0.008)	Data 0.001 (0.002)	Loss 0.9820 (0.9667)	Top-1 acc 43.750 (44.808)	Top-5 acc 100.000 (99.950)	lr 0.04301
+Warmup Train [20][57/57]	Time 0.013 (0.008)	Data 0.001 (0.002)	Loss 1.0318 (0.9466)	Top-1 acc 42.857 (46.464)	Top-5 acc 100.000 (99.959)	lr 0.04269
+==========Warmup Valid [20/80]	loss 1.286	top-1 acc 39.464	top-5 acc 97.048	Train top-1 46.464	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Train [21][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 0.8687 (0.8687)	Top-1 acc 52.344 (52.344)	Top-5 acc 100.000 (100.000)	lr 0.04268
+Warmup Train [21][30/57]	Time 0.008 (0.008)	Data 0.002 (0.002)	Loss 1.0227 (0.9686)	Top-1 acc 45.312 (46.951)	Top-5 acc 100.000 (100.000)	lr 0.04231
+Warmup Train [21][57/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.8114 (0.9616)	Top-1 acc 57.143 (46.654)	Top-5 acc 100.000 (99.986)	lr 0.04198
+==========Warmup Valid [21/80]	loss 0.917	top-1 acc 45.538	top-5 acc 100.000	Train top-1 46.654	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [22][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.8755 (0.8755)	Top-1 acc 44.531 (44.531)	Top-5 acc 100.000 (100.000)	lr 0.04197
+Warmup Train [22][30/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.8719 (0.9072)	Top-1 acc 52.344 (47.656)	Top-5 acc 100.000 (99.975)	lr 0.04159
+Warmup Train [22][57/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 0.8427 (0.9147)	Top-1 acc 46.429 (47.674)	Top-5 acc 100.000 (99.986)	lr 0.04125
+==========Warmup Valid [22/80]	loss 1.081	top-1 acc 44.588	top-5 acc 99.966	Train top-1 47.674	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [23][0/57]	Time 0.011 (0.011)	Data 0.003 (0.003)	Loss 0.8706 (0.8706)	Top-1 acc 49.219 (49.219)	Top-5 acc 100.000 (100.000)	lr 0.04124
+Warmup Train [23][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 1.0050 (0.9235)	Top-1 acc 46.875 (48.236)	Top-5 acc 100.000 (100.000)	lr 0.04085
+Warmup Train [23][57/57]	Time 0.019 (0.009)	Data 0.001 (0.001)	Loss 0.9582 (0.9379)	Top-1 acc 41.071 (47.375)	Top-5 acc 100.000 (99.986)	lr 0.04049
+==========Warmup Valid [23/80]	loss 0.920	top-1 acc 44.893	top-5 acc 100.000	Train top-1 47.375	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [24][0/57]	Time 0.012 (0.012)	Data 0.003 (0.003)	Loss 0.8470 (0.8470)	Top-1 acc 44.531 (44.531)	Top-5 acc 100.000 (100.000)	lr 0.04048
+Warmup Train [24][30/57]	Time 0.008 (0.009)	Data 0.002 (0.001)	Loss 0.9307 (0.9113)	Top-1 acc 46.094 (47.077)	Top-5 acc 100.000 (100.000)	lr 0.04008
+Warmup Train [24][57/57]	Time 0.007 (0.009)	Data 0.000 (0.001)	Loss 0.8718 (0.9192)	Top-1 acc 50.000 (47.484)	Top-5 acc 100.000 (99.946)	lr 0.03971
+==========Warmup Valid [24/80]	loss 0.904	top-1 acc 50.119	top-5 acc 100.000	Train top-1 47.484	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Train [25][0/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.9853 (0.9853)	Top-1 acc 44.531 (44.531)	Top-5 acc 98.438 (98.438)	lr 0.03969
+Warmup Train [25][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.7408 (0.9023)	Top-1 acc 58.594 (48.589)	Top-5 acc 100.000 (99.899)	lr 0.03928
+Warmup Train [25][57/57]	Time 0.007 (0.008)	Data 0.001 (0.002)	Loss 0.8675 (0.9352)	Top-1 acc 51.786 (48.313)	Top-5 acc 100.000 (99.946)	lr 0.03890
+==========Warmup Valid [25/80]	loss 0.904	top-1 acc 49.949	top-5 acc 99.966	Train top-1 48.313	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Train [26][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8922 (0.8922)	Top-1 acc 47.656 (47.656)	Top-5 acc 100.000 (100.000)	lr 0.03889
+Warmup Train [26][30/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.8380 (0.9531)	Top-1 acc 52.344 (47.455)	Top-5 acc 100.000 (99.924)	lr 0.03846
+Warmup Train [26][57/57]	Time 0.009 (0.008)	Data 0.001 (0.002)	Loss 1.2170 (0.9713)	Top-1 acc 37.500 (47.280)	Top-5 acc 100.000 (99.932)	lr 0.03808
+==========Warmup Valid [26/80]	loss 0.953	top-1 acc 50.492	top-5 acc 100.000	Train top-1 47.280	top-5 99.932	flops: 1.5M	mobile: 0.321ms
+Warmup Train [27][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8836 (0.8836)	Top-1 acc 38.281 (38.281)	Top-5 acc 100.000 (100.000)	lr 0.03806
+Warmup Train [27][30/57]	Time 0.008 (0.008)	Data 0.002 (0.001)	Loss 0.8798 (0.9008)	Top-1 acc 47.656 (48.009)	Top-5 acc 100.000 (99.950)	lr 0.03763
+Warmup Train [27][57/57]	Time 0.012 (0.008)	Data 0.001 (0.001)	Loss 0.8729 (0.8928)	Top-1 acc 53.571 (48.327)	Top-5 acc 100.000 (99.959)	lr 0.03723
+==========Warmup Valid [27/80]	loss 0.897	top-1 acc 51.748	top-5 acc 100.000	Train top-1 48.327	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Train [28][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.8780 (0.8780)	Top-1 acc 50.000 (50.000)	Top-5 acc 100.000 (100.000)	lr 0.03722
+Warmup Train [28][30/57]	Time 0.009 (0.008)	Data 0.002 (0.001)	Loss 0.8546 (0.8672)	Top-1 acc 51.562 (49.521)	Top-5 acc 100.000 (99.975)	lr 0.03677
+Warmup Train [28][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.9168 (0.8941)	Top-1 acc 55.357 (48.381)	Top-5 acc 100.000 (99.946)	lr 0.03636
+==========Warmup Valid [28/80]	loss 0.909	top-1 acc 49.338	top-5 acc 100.000	Train top-1 48.381	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Train [29][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 1.2925 (1.2925)	Top-1 acc 35.156 (35.156)	Top-5 acc 100.000 (100.000)	lr 0.03635
+Warmup Train [29][30/57]	Time 0.008 (0.008)	Data 0.002 (0.001)	Loss 0.7945 (0.8755)	Top-1 acc 55.469 (49.370)	Top-5 acc 100.000 (99.975)	lr 0.03589
+Warmup Train [29][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.9239 (0.9115)	Top-1 acc 48.214 (48.028)	Top-5 acc 100.000 (99.986)	lr 0.03548
+==========Warmup Valid [29/80]	loss 0.886	top-1 acc 48.117	top-5 acc 100.000	Train top-1 48.028	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [30][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8171 (0.8171)	Top-1 acc 51.562 (51.562)	Top-5 acc 100.000 (100.000)	lr 0.03547
+Warmup Train [30][30/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.8375 (0.8564)	Top-1 acc 48.438 (49.924)	Top-5 acc 100.000 (99.975)	lr 0.03500
+Warmup Train [30][57/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 0.7692 (0.8851)	Top-1 acc 51.786 (49.674)	Top-5 acc 100.000 (99.973)	lr 0.03458
+==========Warmup Valid [30/80]	loss 0.863	top-1 acc 48.965	top-5 acc 100.000	Train top-1 49.674	top-5 99.973	flops: 1.5M	mobile: 0.321ms
+Warmup Train [31][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8408 (0.8408)	Top-1 acc 57.031 (57.031)	Top-5 acc 100.000 (100.000)	lr 0.03457
+Warmup Train [31][30/57]	Time 0.009 (0.012)	Data 0.002 (0.002)	Loss 0.8726 (0.8953)	Top-1 acc 51.562 (48.589)	Top-5 acc 100.000 (99.975)	lr 0.03410
+Warmup Train [31][57/57]	Time 0.007 (0.011)	Data 0.000 (0.002)	Loss 0.9475 (0.8924)	Top-1 acc 39.286 (48.531)	Top-5 acc 100.000 (99.986)	lr 0.03367
+==========Warmup Valid [31/80]	loss 0.891	top-1 acc 48.592	top-5 acc 100.000	Train top-1 48.531	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [32][0/57]	Time 0.010 (0.010)	Data 0.001 (0.001)	Loss 0.9947 (0.9947)	Top-1 acc 45.312 (45.312)	Top-5 acc 100.000 (100.000)	lr 0.03365
+Warmup Train [32][30/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.8313 (0.8628)	Top-1 acc 51.562 (49.093)	Top-5 acc 100.000 (100.000)	lr 0.03317
+Warmup Train [32][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.8268 (0.8594)	Top-1 acc 51.786 (49.660)	Top-5 acc 100.000 (100.000)	lr 0.03274
+==========Warmup Valid [32/80]	loss 0.956	top-1 acc 45.436	top-5 acc 100.000	Train top-1 49.660	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [33][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8948 (0.8948)	Top-1 acc 44.531 (44.531)	Top-5 acc 100.000 (100.000)	lr 0.03273
+Warmup Train [33][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 0.8472 (0.8466)	Top-1 acc 48.438 (49.597)	Top-5 acc 100.000 (100.000)	lr 0.03224
+Warmup Train [33][57/57]	Time 0.029 (0.009)	Data 0.000 (0.001)	Loss 0.8156 (0.8576)	Top-1 acc 60.714 (49.742)	Top-5 acc 100.000 (100.000)	lr 0.03180
+==========Warmup Valid [33/80]	loss 0.859	top-1 acc 48.558	top-5 acc 100.000	Train top-1 49.742	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [34][0/57]	Time 0.013 (0.013)	Data 0.002 (0.002)	Loss 0.8716 (0.8716)	Top-1 acc 42.969 (42.969)	Top-5 acc 100.000 (100.000)	lr 0.03179
+Warmup Train [34][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.8805 (0.8565)	Top-1 acc 50.000 (49.950)	Top-5 acc 100.000 (100.000)	lr 0.03130
+Warmup Train [34][57/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.9117 (0.8487)	Top-1 acc 37.500 (50.585)	Top-5 acc 100.000 (99.986)	lr 0.03085
+==========Warmup Valid [34/80]	loss 0.833	top-1 acc 52.664	top-5 acc 100.000	Train top-1 50.585	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [35][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 0.8497 (0.8497)	Top-1 acc 49.219 (49.219)	Top-5 acc 100.000 (100.000)	lr 0.03084
+Warmup Train [35][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 0.9226 (0.8671)	Top-1 acc 42.969 (50.479)	Top-5 acc 100.000 (100.000)	lr 0.03034
+Warmup Train [35][57/57]	Time 0.007 (0.009)	Data 0.000 (0.001)	Loss 1.0293 (0.8630)	Top-1 acc 48.214 (50.966)	Top-5 acc 100.000 (99.973)	lr 0.02989
+==========Warmup Valid [35/80]	loss 0.843	top-1 acc 49.508	top-5 acc 100.000	Train top-1 50.966	top-5 99.973	flops: 1.5M	mobile: 0.321ms
+Warmup Train [36][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.8154 (0.8154)	Top-1 acc 57.812 (57.812)	Top-5 acc 100.000 (100.000)	lr 0.02988
+Warmup Train [36][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.8886 (0.8419)	Top-1 acc 49.219 (50.454)	Top-5 acc 100.000 (100.000)	lr 0.02938
+Warmup Train [36][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 1.9400 (0.9127)	Top-1 acc 46.429 (49.116)	Top-5 acc 100.000 (99.918)	lr 0.02893
+==========Warmup Valid [36/80]	loss 0.852	top-1 acc 50.153	top-5 acc 100.000	Train top-1 49.116	top-5 99.918	flops: 1.5M	mobile: 0.321ms
+Warmup Train [37][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.7812 (0.7812)	Top-1 acc 58.594 (58.594)	Top-5 acc 100.000 (100.000)	lr 0.02891
+Warmup Train [37][30/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.8115 (0.8676)	Top-1 acc 52.344 (50.580)	Top-5 acc 100.000 (99.899)	lr 0.02841
+Warmup Train [37][57/57]	Time 0.006 (0.008)	Data 0.000 (0.001)	Loss 0.7888 (0.8523)	Top-1 acc 57.143 (50.871)	Top-5 acc 100.000 (99.946)	lr 0.02796
+==========Warmup Valid [37/80]	loss 0.852	top-1 acc 51.815	top-5 acc 100.000	Train top-1 50.871	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Train [38][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.7625 (0.7625)	Top-1 acc 53.906 (53.906)	Top-5 acc 100.000 (100.000)	lr 0.02794
+Warmup Train [38][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.8369 (0.8587)	Top-1 acc 54.688 (50.403)	Top-5 acc 100.000 (100.000)	lr 0.02743
+Warmup Train [38][57/57]	Time 0.007 (0.008)	Data 0.000 (0.002)	Loss 0.7823 (0.8625)	Top-1 acc 58.929 (50.993)	Top-5 acc 100.000 (100.000)	lr 0.02698
+==========Warmup Valid [38/80]	loss 0.901	top-1 acc 49.338	top-5 acc 100.000	Train top-1 50.993	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [39][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8806 (0.8806)	Top-1 acc 50.000 (50.000)	Top-5 acc 100.000 (100.000)	lr 0.02696
+Warmup Train [39][30/57]	Time 0.009 (0.009)	Data 0.002 (0.001)	Loss 0.8293 (0.8299)	Top-1 acc 53.906 (53.150)	Top-5 acc 100.000 (100.000)	lr 0.02645
+Warmup Train [39][57/57]	Time 0.007 (0.009)	Data 0.001 (0.001)	Loss 0.7800 (0.8261)	Top-1 acc 57.143 (53.604)	Top-5 acc 100.000 (100.000)	lr 0.02600
+==========Warmup Valid [39/80]	loss 0.816	top-1 acc 54.903	top-5 acc 100.000	Train top-1 53.604	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [40][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8254 (0.8254)	Top-1 acc 57.031 (57.031)	Top-5 acc 100.000 (100.000)	lr 0.02598
+Warmup Train [40][30/57]	Time 0.009 (0.009)	Data 0.001 (0.001)	Loss 0.7325 (0.8312)	Top-1 acc 65.625 (53.604)	Top-5 acc 100.000 (100.000)	lr 0.02547
+Warmup Train [40][57/57]	Time 0.186 (0.012)	Data 0.001 (0.001)	Loss 0.8790 (0.8247)	Top-1 acc 53.571 (53.509)	Top-5 acc 100.000 (100.000)	lr 0.02502
+==========Warmup Valid [40/80]	loss 0.809	top-1 acc 54.666	top-5 acc 100.000	Train top-1 53.509	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [41][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.7695 (0.7695)	Top-1 acc 54.688 (54.688)	Top-5 acc 100.000 (100.000)	lr 0.02500
+Warmup Train [41][30/57]	Time 0.009 (0.009)	Data 0.001 (0.001)	Loss 0.7139 (0.8027)	Top-1 acc 67.969 (55.015)	Top-5 acc 100.000 (100.000)	lr 0.02449
+Warmup Train [41][57/57]	Time 0.007 (0.009)	Data 0.001 (0.001)	Loss 0.8949 (0.8113)	Top-1 acc 51.786 (54.353)	Top-5 acc 100.000 (100.000)	lr 0.02404
+==========Warmup Valid [41/80]	loss 0.802	top-1 acc 56.464	top-5 acc 100.000	Train top-1 54.353	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [42][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.8335 (0.8335)	Top-1 acc 48.438 (48.438)	Top-5 acc 100.000 (100.000)	lr 0.02402
+Warmup Train [42][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.7709 (0.8179)	Top-1 acc 57.031 (53.931)	Top-5 acc 100.000 (99.975)	lr 0.02351
+Warmup Train [42][57/57]	Time 0.007 (0.008)	Data 0.001 (0.002)	Loss 1.1179 (0.8138)	Top-1 acc 32.143 (54.026)	Top-5 acc 100.000 (99.986)	lr 0.02306
+==========Warmup Valid [42/80]	loss 0.858	top-1 acc 53.241	top-5 acc 100.000	Train top-1 54.026	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [43][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.7656 (0.7656)	Top-1 acc 57.031 (57.031)	Top-5 acc 100.000 (100.000)	lr 0.02304
+Warmup Train [43][30/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.8459 (0.7954)	Top-1 acc 53.125 (55.973)	Top-5 acc 100.000 (100.000)	lr 0.02253
+Warmup Train [43][57/57]	Time 0.007 (0.009)	Data 0.001 (0.001)	Loss 0.7136 (0.7909)	Top-1 acc 55.357 (55.835)	Top-5 acc 100.000 (100.000)	lr 0.02208
+==========Warmup Valid [43/80]	loss 0.807	top-1 acc 55.819	top-5 acc 100.000	Train top-1 55.835	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [44][0/57]	Time 0.010 (0.010)	Data 0.003 (0.003)	Loss 0.8282 (0.8282)	Top-1 acc 53.906 (53.906)	Top-5 acc 100.000 (100.000)	lr 0.02206
+Warmup Train [44][30/57]	Time 0.009 (0.008)	Data 0.002 (0.001)	Loss 0.8025 (0.7861)	Top-1 acc 50.781 (57.157)	Top-5 acc 100.000 (100.000)	lr 0.02156
+Warmup Train [44][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.7395 (0.7893)	Top-1 acc 57.143 (55.794)	Top-5 acc 100.000 (100.000)	lr 0.02111
+==========Warmup Valid [44/80]	loss 0.948	top-1 acc 51.714	top-5 acc 100.000	Train top-1 55.794	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [45][0/57]	Time 0.010 (0.010)	Data 0.003 (0.003)	Loss 0.7539 (0.7539)	Top-1 acc 60.156 (60.156)	Top-5 acc 100.000 (100.000)	lr 0.02109
+Warmup Train [45][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 0.8503 (0.7582)	Top-1 acc 49.219 (57.712)	Top-5 acc 100.000 (100.000)	lr 0.02059
+Warmup Train [45][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.6883 (0.7759)	Top-1 acc 62.500 (56.923)	Top-5 acc 100.000 (100.000)	lr 0.02014
+==========Warmup Valid [45/80]	loss 1.023	top-1 acc 48.931	top-5 acc 99.966	Train top-1 56.923	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [46][0/57]	Time 0.011 (0.011)	Data 0.003 (0.003)	Loss 0.8927 (0.8927)	Top-1 acc 48.438 (48.438)	Top-5 acc 100.000 (100.000)	lr 0.02012
+Warmup Train [46][30/57]	Time 0.008 (0.009)	Data 0.002 (0.002)	Loss 0.7191 (0.7942)	Top-1 acc 59.375 (56.578)	Top-5 acc 100.000 (100.000)	lr 0.01963
+Warmup Train [46][57/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.7258 (0.7707)	Top-1 acc 64.286 (57.209)	Top-5 acc 100.000 (100.000)	lr 0.01918
+==========Warmup Valid [46/80]	loss 1.146	top-1 acc 48.219	top-5 acc 99.966	Train top-1 57.209	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [47][0/57]	Time 0.009 (0.009)	Data 0.001 (0.001)	Loss 0.6715 (0.6715)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.01916
+Warmup Train [47][30/57]	Time 0.008 (0.009)	Data 0.002 (0.001)	Loss 0.7669 (0.7491)	Top-1 acc 55.469 (58.266)	Top-5 acc 100.000 (100.000)	lr 0.01867
+Warmup Train [47][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.7165 (0.7496)	Top-1 acc 57.143 (58.569)	Top-5 acc 100.000 (100.000)	lr 0.01823
+==========Warmup Valid [47/80]	loss 0.954	top-1 acc 51.883	top-5 acc 100.000	Train top-1 58.569	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [48][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.7489 (0.7489)	Top-1 acc 53.906 (53.906)	Top-5 acc 100.000 (100.000)	lr 0.01821
+Warmup Train [48][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.7325 (0.7449)	Top-1 acc 63.281 (59.249)	Top-5 acc 100.000 (100.000)	lr 0.01773
+Warmup Train [48][57/57]	Time 0.007 (0.008)	Data 0.001 (0.002)	Loss 0.8750 (0.7472)	Top-1 acc 39.286 (58.855)	Top-5 acc 100.000 (100.000)	lr 0.01729
+==========Warmup Valid [48/80]	loss 0.919	top-1 acc 55.073	top-5 acc 99.966	Train top-1 58.855	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [49][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.7699 (0.7699)	Top-1 acc 52.344 (52.344)	Top-5 acc 100.000 (100.000)	lr 0.01727
+Warmup Train [49][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.7756 (0.7400)	Top-1 acc 55.469 (57.787)	Top-5 acc 100.000 (100.000)	lr 0.01679
+Warmup Train [49][57/57]	Time 0.008 (0.008)	Data 0.000 (0.001)	Loss 0.7681 (0.7323)	Top-1 acc 60.714 (58.583)	Top-5 acc 100.000 (100.000)	lr 0.01636
+==========Warmup Valid [49/80]	loss 0.901	top-1 acc 56.091	top-5 acc 100.000	Train top-1 58.583	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [50][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6537 (0.6537)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.01635
+Warmup Train [50][30/57]	Time 0.008 (0.008)	Data 0.002 (0.001)	Loss 0.7061 (0.7567)	Top-1 acc 58.594 (58.317)	Top-5 acc 100.000 (100.000)	lr 0.01587
+Warmup Train [50][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.8378 (0.7346)	Top-1 acc 48.214 (59.521)	Top-5 acc 100.000 (100.000)	lr 0.01545
+==========Warmup Valid [50/80]	loss 0.842	top-1 acc 56.905	top-5 acc 100.000	Train top-1 59.521	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [51][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.7223 (0.7223)	Top-1 acc 64.844 (64.844)	Top-5 acc 100.000 (100.000)	lr 0.01543
+Warmup Train [51][30/57]	Time 0.008 (0.009)	Data 0.002 (0.002)	Loss 0.7191 (0.7101)	Top-1 acc 57.812 (60.887)	Top-5 acc 100.000 (100.000)	lr 0.01497
+Warmup Train [51][57/57]	Time 0.007 (0.009)	Data 0.000 (0.001)	Loss 0.8194 (0.7149)	Top-1 acc 62.500 (60.160)	Top-5 acc 100.000 (100.000)	lr 0.01455
+==========Warmup Valid [51/80]	loss 0.888	top-1 acc 54.801	top-5 acc 100.000	Train top-1 60.160	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [52][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.7964 (0.7964)	Top-1 acc 54.688 (54.688)	Top-5 acc 100.000 (100.000)	lr 0.01453
+Warmup Train [52][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.6930 (0.7323)	Top-1 acc 56.250 (59.022)	Top-5 acc 100.000 (100.000)	lr 0.01407
+Warmup Train [52][57/57]	Time 0.009 (0.008)	Data 0.001 (0.002)	Loss 0.7631 (0.7158)	Top-1 acc 50.000 (59.888)	Top-5 acc 100.000 (100.000)	lr 0.01367
+==========Warmup Valid [52/80]	loss 0.766	top-1 acc 58.229	top-5 acc 100.000	Train top-1 59.888	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [53][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.9192 (0.9192)	Top-1 acc 46.875 (46.875)	Top-5 acc 100.000 (100.000)	lr 0.01365
+Warmup Train [53][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.8071 (0.7227)	Top-1 acc 57.812 (59.400)	Top-5 acc 100.000 (100.000)	lr 0.01320
+Warmup Train [53][57/57]	Time 0.007 (0.008)	Data 0.001 (0.002)	Loss 0.7358 (0.7039)	Top-1 acc 60.714 (60.528)	Top-5 acc 100.000 (100.000)	lr 0.01280
+==========Warmup Valid [53/80]	loss 0.890	top-1 acc 55.446	top-5 acc 100.000	Train top-1 60.528	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [54][0/57]	Time 0.008 (0.008)	Data 0.002 (0.002)	Loss 0.7274 (0.7274)	Top-1 acc 55.469 (55.469)	Top-5 acc 100.000 (100.000)	lr 0.01278
+Warmup Train [54][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.6375 (0.6849)	Top-1 acc 61.719 (61.366)	Top-5 acc 100.000 (100.000)	lr 0.01234
+Warmup Train [54][57/57]	Time 0.009 (0.008)	Data 0.001 (0.002)	Loss 0.6671 (0.6941)	Top-1 acc 60.714 (60.936)	Top-5 acc 100.000 (100.000)	lr 0.01195
+==========Warmup Valid [54/80]	loss 0.937	top-1 acc 55.310	top-5 acc 100.000	Train top-1 60.936	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [55][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6355 (0.6355)	Top-1 acc 69.531 (69.531)	Top-5 acc 100.000 (100.000)	lr 0.01194
+Warmup Train [55][30/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.6912 (0.6897)	Top-1 acc 59.375 (62.399)	Top-5 acc 100.000 (100.000)	lr 0.01151
+Warmup Train [55][57/57]	Time 0.007 (0.009)	Data 0.001 (0.002)	Loss 0.8238 (0.6965)	Top-1 acc 58.929 (61.834)	Top-5 acc 100.000 (100.000)	lr 0.01112
+==========Warmup Valid [55/80]	loss 1.047	top-1 acc 52.596	top-5 acc 99.830	Train top-1 61.834	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [56][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.7026 (0.7026)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.01111
+Warmup Train [56][30/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.7068 (0.6884)	Top-1 acc 57.812 (61.568)	Top-5 acc 100.000 (100.000)	lr 0.01069
+Warmup Train [56][57/57]	Time 0.007 (0.008)	Data 0.000 (0.002)	Loss 0.7209 (0.6950)	Top-1 acc 57.143 (61.167)	Top-5 acc 100.000 (100.000)	lr 0.01032
+==========Warmup Valid [56/80]	loss 0.914	top-1 acc 55.141	top-5 acc 100.000	Train top-1 61.167	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [57][0/57]	Time 0.018 (0.018)	Data 0.008 (0.008)	Loss 0.6374 (0.6374)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.01031
+Warmup Train [57][30/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.8227 (0.6830)	Top-1 acc 47.656 (61.064)	Top-5 acc 100.000 (100.000)	lr 0.00990
+Warmup Train [57][57/57]	Time 0.007 (0.009)	Data 0.001 (0.002)	Loss 0.7384 (0.6935)	Top-1 acc 57.143 (60.487)	Top-5 acc 100.000 (100.000)	lr 0.00954
+==========Warmup Valid [57/80]	loss 0.851	top-1 acc 58.534	top-5 acc 100.000	Train top-1 60.487	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [58][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.6256 (0.6256)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.00952
+Warmup Train [58][30/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.9252 (0.6902)	Top-1 acc 54.688 (61.744)	Top-5 acc 100.000 (100.000)	lr 0.00913
+Warmup Train [58][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.6141 (0.6935)	Top-1 acc 73.214 (61.643)	Top-5 acc 100.000 (99.986)	lr 0.00878
+==========Warmup Valid [58/80]	loss 0.850	top-1 acc 57.414	top-5 acc 100.000	Train top-1 61.643	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Train [59][0/57]	Time 0.010 (0.010)	Data 0.003 (0.003)	Loss 0.6219 (0.6219)	Top-1 acc 65.625 (65.625)	Top-5 acc 100.000 (100.000)	lr 0.00876
+Warmup Train [59][30/57]	Time 0.008 (0.009)	Data 0.001 (0.001)	Loss 0.6782 (0.6844)	Top-1 acc 52.344 (60.786)	Top-5 acc 100.000 (100.000)	lr 0.00838
+Warmup Train [59][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.8776 (0.6956)	Top-1 acc 55.357 (59.984)	Top-5 acc 100.000 (100.000)	lr 0.00804
+==========Warmup Valid [59/80]	loss 0.866	top-1 acc 56.566	top-5 acc 100.000	Train top-1 59.984	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [60][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.7368 (0.7368)	Top-1 acc 56.250 (56.250)	Top-5 acc 100.000 (100.000)	lr 0.00803
+Warmup Train [60][30/57]	Time 0.010 (0.008)	Data 0.002 (0.002)	Loss 0.6008 (0.6873)	Top-1 acc 63.281 (61.215)	Top-5 acc 100.000 (100.000)	lr 0.00766
+Warmup Train [60][57/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.6698 (0.6803)	Top-1 acc 60.714 (62.010)	Top-5 acc 100.000 (100.000)	lr 0.00733
+==========Warmup Valid [60/80]	loss 0.855	top-1 acc 57.482	top-5 acc 100.000	Train top-1 62.010	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [61][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.7491 (0.7491)	Top-1 acc 52.344 (52.344)	Top-5 acc 100.000 (100.000)	lr 0.00732
+Warmup Train [61][30/57]	Time 0.008 (0.008)	Data 0.002 (0.002)	Loss 0.6660 (0.6820)	Top-1 acc 60.156 (61.139)	Top-5 acc 100.000 (100.000)	lr 0.00697
+Warmup Train [61][57/57]	Time 0.006 (0.008)	Data 0.001 (0.002)	Loss 0.7051 (0.6808)	Top-1 acc 60.714 (61.711)	Top-5 acc 100.000 (100.000)	lr 0.00665
+==========Warmup Valid [61/80]	loss 0.837	top-1 acc 57.313	top-5 acc 100.000	Train top-1 61.711	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [62][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6978 (0.6978)	Top-1 acc 56.250 (56.250)	Top-5 acc 100.000 (100.000)	lr 0.00664
+Warmup Train [62][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.5943 (0.6681)	Top-1 acc 66.406 (62.853)	Top-5 acc 100.000 (100.000)	lr 0.00630
+Warmup Train [62][57/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.7890 (0.6813)	Top-1 acc 51.786 (62.065)	Top-5 acc 100.000 (100.000)	lr 0.00600
+==========Warmup Valid [62/80]	loss 0.777	top-1 acc 59.891	top-5 acc 100.000	Train top-1 62.065	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [63][0/57]	Time 0.010 (0.010)	Data 0.003 (0.003)	Loss 0.6642 (0.6642)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.00599
+Warmup Train [63][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.6628 (0.6780)	Top-1 acc 58.594 (62.424)	Top-5 acc 100.000 (100.000)	lr 0.00566
+Warmup Train [63][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.7198 (0.6811)	Top-1 acc 50.000 (61.983)	Top-5 acc 100.000 (100.000)	lr 0.00538
+==========Warmup Valid [63/80]	loss 0.808	top-1 acc 59.179	top-5 acc 100.000	Train top-1 61.983	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [64][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.6793 (0.6793)	Top-1 acc 60.156 (60.156)	Top-5 acc 100.000 (100.000)	lr 0.00537
+Warmup Train [64][30/57]	Time 0.009 (0.012)	Data 0.002 (0.003)	Loss 0.6491 (0.6843)	Top-1 acc 59.375 (62.399)	Top-5 acc 100.000 (100.000)	lr 0.00506
+Warmup Train [64][57/57]	Time 0.007 (0.010)	Data 0.001 (0.002)	Loss 0.6494 (0.6722)	Top-1 acc 57.143 (62.568)	Top-5 acc 100.000 (100.000)	lr 0.00478
+==========Warmup Valid [64/80]	loss 0.776	top-1 acc 59.824	top-5 acc 100.000	Train top-1 62.568	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [65][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.7966 (0.7966)	Top-1 acc 55.469 (55.469)	Top-5 acc 100.000 (100.000)	lr 0.00477
+Warmup Train [65][30/57]	Time 0.009 (0.008)	Data 0.001 (0.001)	Loss 0.6011 (0.6757)	Top-1 acc 71.094 (62.324)	Top-5 acc 100.000 (100.000)	lr 0.00448
+Warmup Train [65][57/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.6818 (0.6712)	Top-1 acc 69.643 (62.609)	Top-5 acc 100.000 (100.000)	lr 0.00422
+==========Warmup Valid [65/80]	loss 0.837	top-1 acc 57.788	top-5 acc 100.000	Train top-1 62.609	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [66][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 0.6627 (0.6627)	Top-1 acc 59.375 (59.375)	Top-5 acc 100.000 (100.000)	lr 0.00421
+Warmup Train [66][30/57]	Time 0.008 (0.008)	Data 0.002 (0.002)	Loss 0.5923 (0.6556)	Top-1 acc 64.844 (63.004)	Top-5 acc 100.000 (100.000)	lr 0.00394
+Warmup Train [66][57/57]	Time 0.007 (0.008)	Data 0.001 (0.002)	Loss 0.7590 (0.6671)	Top-1 acc 51.786 (63.003)	Top-5 acc 100.000 (100.000)	lr 0.00369
+==========Warmup Valid [66/80]	loss 0.782	top-1 acc 60.604	top-5 acc 100.000	Train top-1 63.003	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [67][0/57]	Time 0.012 (0.012)	Data 0.002 (0.002)	Loss 0.6703 (0.6703)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.00368
+Warmup Train [67][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.5932 (0.6736)	Top-1 acc 64.062 (61.542)	Top-5 acc 100.000 (100.000)	lr 0.00342
+Warmup Train [67][57/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.6503 (0.6711)	Top-1 acc 66.071 (61.657)	Top-5 acc 100.000 (100.000)	lr 0.00320
+==========Warmup Valid [67/80]	loss 0.900	top-1 acc 55.616	top-5 acc 100.000	Train top-1 61.657	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [68][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.5594 (0.5594)	Top-1 acc 71.875 (71.875)	Top-5 acc 100.000 (100.000)	lr 0.00319
+Warmup Train [68][30/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.6370 (0.6564)	Top-1 acc 64.062 (63.382)	Top-5 acc 100.000 (100.000)	lr 0.00294
+Warmup Train [68][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.5853 (0.6579)	Top-1 acc 64.286 (63.534)	Top-5 acc 100.000 (100.000)	lr 0.00273
+==========Warmup Valid [68/80]	loss 0.819	top-1 acc 57.448	top-5 acc 100.000	Train top-1 63.534	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [69][0/57]	Time 0.011 (0.011)	Data 0.003 (0.003)	Loss 0.6710 (0.6710)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.00272
+Warmup Train [69][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.6354 (0.6718)	Top-1 acc 63.281 (62.651)	Top-5 acc 100.000 (100.000)	lr 0.00250
+Warmup Train [69][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.7383 (0.6625)	Top-1 acc 66.071 (62.908)	Top-5 acc 100.000 (100.000)	lr 0.00230
+==========Warmup Valid [69/80]	loss 0.803	top-1 acc 58.093	top-5 acc 100.000	Train top-1 62.908	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [70][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.6706 (0.6706)	Top-1 acc 64.062 (64.062)	Top-5 acc 100.000 (100.000)	lr 0.00230
+Warmup Train [70][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.7532 (0.6617)	Top-1 acc 58.594 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.00209
+Warmup Train [70][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.6873 (0.6553)	Top-1 acc 60.714 (63.275)	Top-5 acc 100.000 (100.000)	lr 0.00191
+==========Warmup Valid [70/80]	loss 0.786	top-1 acc 58.466	top-5 acc 100.000	Train top-1 63.275	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [71][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6767 (0.6767)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.00190
+Warmup Train [71][30/57]	Time 0.009 (0.008)	Data 0.002 (0.002)	Loss 0.6577 (0.6606)	Top-1 acc 62.500 (62.374)	Top-5 acc 100.000 (100.000)	lr 0.00171
+Warmup Train [71][57/57]	Time 0.008 (0.008)	Data 0.000 (0.002)	Loss 0.5993 (0.6552)	Top-1 acc 66.071 (63.316)	Top-5 acc 100.000 (100.000)	lr 0.00155
+==========Warmup Valid [71/80]	loss 0.810	top-1 acc 58.059	top-5 acc 100.000	Train top-1 63.316	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [72][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6054 (0.6054)	Top-1 acc 62.500 (62.500)	Top-5 acc 100.000 (100.000)	lr 0.00155
+Warmup Train [72][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.7661 (0.6591)	Top-1 acc 60.156 (62.702)	Top-5 acc 100.000 (100.000)	lr 0.00137
+Warmup Train [72][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.6764 (0.6571)	Top-1 acc 67.857 (62.935)	Top-5 acc 100.000 (100.000)	lr 0.00123
+==========Warmup Valid [72/80]	loss 0.826	top-1 acc 57.923	top-5 acc 100.000	Train top-1 62.935	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [73][0/57]	Time 0.011 (0.011)	Data 0.003 (0.003)	Loss 0.6362 (0.6362)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.00122
+Warmup Train [73][30/57]	Time 0.009 (0.009)	Data 0.001 (0.002)	Loss 0.8125 (0.6511)	Top-1 acc 58.594 (63.029)	Top-5 acc 100.000 (100.000)	lr 0.00107
+Warmup Train [73][57/57]	Time 0.007 (0.009)	Data 0.000 (0.002)	Loss 0.8263 (0.6638)	Top-1 acc 44.643 (62.704)	Top-5 acc 100.000 (100.000)	lr 0.00094
+==========Warmup Valid [73/80]	loss 0.823	top-1 acc 57.754	top-5 acc 100.000	Train top-1 62.704	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [74][0/57]	Time 0.011 (0.011)	Data 0.002 (0.002)	Loss 0.7026 (0.7026)	Top-1 acc 64.844 (64.844)	Top-5 acc 100.000 (100.000)	lr 0.00094
+Warmup Train [74][30/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.7361 (0.6544)	Top-1 acc 61.719 (63.306)	Top-5 acc 100.000 (100.000)	lr 0.00081
+Warmup Train [74][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.5681 (0.6534)	Top-1 acc 69.643 (63.683)	Top-5 acc 100.000 (100.000)	lr 0.00069
+==========Warmup Valid [74/80]	loss 0.797	top-1 acc 58.331	top-5 acc 100.000	Train top-1 63.683	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [75][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6121 (0.6121)	Top-1 acc 67.188 (67.188)	Top-5 acc 100.000 (100.000)	lr 0.00069
+Warmup Train [75][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.6773 (0.6651)	Top-1 acc 54.688 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.00058
+Warmup Train [75][57/57]	Time 0.010 (0.009)	Data 0.002 (0.002)	Loss 0.5864 (0.6559)	Top-1 acc 64.286 (63.398)	Top-5 acc 100.000 (100.000)	lr 0.00048
+==========Warmup Valid [75/80]	loss 0.802	top-1 acc 58.297	top-5 acc 100.000	Train top-1 63.398	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [76][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.5980 (0.5980)	Top-1 acc 65.625 (65.625)	Top-5 acc 100.000 (100.000)	lr 0.00048
+Warmup Train [76][30/57]	Time 0.009 (0.008)	Data 0.001 (0.001)	Loss 0.6942 (0.6677)	Top-1 acc 59.375 (61.996)	Top-5 acc 100.000 (100.000)	lr 0.00039
+Warmup Train [76][57/57]	Time 0.007 (0.008)	Data 0.001 (0.001)	Loss 0.7066 (0.6629)	Top-1 acc 66.071 (62.840)	Top-5 acc 100.000 (100.000)	lr 0.00031
+==========Warmup Valid [76/80]	loss 0.758	top-1 acc 59.145	top-5 acc 100.000	Train top-1 62.840	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [77][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.7673 (0.7673)	Top-1 acc 51.562 (51.562)	Top-5 acc 100.000 (100.000)	lr 0.00031
+Warmup Train [77][30/57]	Time 0.008 (0.008)	Data 0.001 (0.002)	Loss 0.7560 (0.6603)	Top-1 acc 51.562 (63.029)	Top-5 acc 100.000 (100.000)	lr 0.00023
+Warmup Train [77][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.6002 (0.6634)	Top-1 acc 67.857 (63.017)	Top-5 acc 100.000 (100.000)	lr 0.00018
+==========Warmup Valid [77/80]	loss 0.748	top-1 acc 59.552	top-5 acc 100.000	Train top-1 63.017	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [78][0/57]	Time 0.009 (0.009)	Data 0.002 (0.002)	Loss 0.6794 (0.6794)	Top-1 acc 62.500 (62.500)	Top-5 acc 100.000 (100.000)	lr 0.00017
+Warmup Train [78][30/57]	Time 0.010 (0.008)	Data 0.002 (0.001)	Loss 0.7017 (0.6521)	Top-1 acc 58.594 (63.332)	Top-5 acc 100.000 (100.000)	lr 0.00012
+Warmup Train [78][57/57]	Time 0.007 (0.008)	Data 0.000 (0.001)	Loss 0.6326 (0.6608)	Top-1 acc 60.714 (62.405)	Top-5 acc 100.000 (100.000)	lr 0.00008
+==========Warmup Valid [78/80]	loss 0.755	top-1 acc 59.348	top-5 acc 100.000	Train top-1 62.405	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [79][0/57]	Time 0.016 (0.016)	Data 0.003 (0.003)	Loss 0.6181 (0.6181)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.00008
+Warmup Train [79][30/57]	Time 0.007 (0.009)	Data 0.001 (0.002)	Loss 0.6060 (0.6650)	Top-1 acc 71.875 (62.853)	Top-5 acc 100.000 (100.000)	lr 0.00004
+Warmup Train [79][57/57]	Time 0.008 (0.009)	Data 0.001 (0.002)	Loss 0.4917 (0.6590)	Top-1 acc 66.071 (62.990)	Top-5 acc 100.000 (100.000)	lr 0.00002
+==========Warmup Valid [79/80]	loss 0.793	top-1 acc 58.568	top-5 acc 100.000	Train top-1 62.990	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Train [80][0/57]	Time 0.010 (0.010)	Data 0.002 (0.002)	Loss 0.6574 (0.6574)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.00002
+Warmup Train [80][30/57]	Time 0.008 (0.009)	Data 0.002 (0.001)	Loss 0.6526 (0.6409)	Top-1 acc 61.719 (63.987)	Top-5 acc 100.000 (100.000)	lr 0.00000
+Warmup Train [80][57/57]	Time 0.008 (0.008)	Data 0.001 (0.001)	Loss 0.6251 (0.6422)	Top-1 acc 62.500 (63.887)	Top-5 acc 100.000 (100.000)	lr 0.00000
+==========Warmup Valid [80/80]	loss 0.775	top-1 acc 59.043	top-5 acc 100.000	Train top-1 63.887	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Train [1][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.6628 (0.6628)	Entropy 2.15796 (2.15796)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.05000
+Train [1][30/57]	Time 0.008 (0.009)	Data Time 0.001 (0.001)	Loss 0.7195 (0.7052)	Entropy 2.15796 (2.15796)	Top-1 acc 55.469 (61.668)	Top-5 acc 100.000 (100.000)	lr 0.05000
+Train [1][57/57]	Time 0.008 (0.009)	Data Time 0.001 (0.001)	Loss 0.6835 (0.7323)	Entropy 2.15796 (2.15796)	Top-1 acc 62.500 (60.487)	Top-5 acc 100.000 (100.000)	lr 0.04999
+==========Valid [1/100]	loss 0.976	top-1 acc 58.602 (58.602)	top-5 acc 100.000	Train top-1 60.487	top-5 100.000	Entropy 2.15796	Latency-mobile: 0.321ms	Flops: 1.47M
+Train [2][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6221 (0.6221)	Entropy 2.15796 (2.15796)	Top-1 acc 53.906 (53.906)	Top-5 acc 100.000 (100.000)	lr 0.04999
+Train [2][30/57]	Time 0.010 (0.017)	Data Time 0.002 (0.002)	Loss 0.8152 (0.7690)	Entropy 2.15787 (2.15793)	Top-1 acc 55.469 (59.148)	Top-5 acc 100.000 (100.000)	lr 0.04997
+Train [2][57/57]	Time 0.009 (0.016)	Data Time 0.000 (0.001)	Loss 0.7075 (0.7505)	Entropy 2.15774 (2.15788)	Top-1 acc 57.143 (59.644)	Top-5 acc 100.000 (100.000)	lr 0.04995
+==========Valid [2/100]	loss 0.700	top-1 acc 61.690 (61.690)	top-5 acc 100.000	Train top-1 59.644	top-5 100.000	Entropy 2.15774	Latency-mobile: 0.315ms	Flops: 1.69M
+Train [3][0/57]	Time 0.013 (0.013)	Data Time 0.002 (0.002)	Loss 0.7786 (0.7786)	Entropy 2.15774 (2.15774)	Top-1 acc 58.594 (58.594)	Top-5 acc 100.000 (100.000)	lr 0.04995
+Train [3][30/57]	Time 0.008 (0.017)	Data Time 0.001 (0.002)	Loss 0.9175 (1.1575)	Entropy 2.15756 (2.15768)	Top-1 acc 50.000 (54.435)	Top-5 acc 100.000 (99.572)	lr 0.04992
+Train [3][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.6733 (1.1131)	Entropy 2.15744 (2.15759)	Top-1 acc 57.143 (54.203)	Top-5 acc 100.000 (99.497)	lr 0.04989
+==========Valid [3/100]	loss 0.953	top-1 acc 52.596 (61.690)	top-5 acc 99.898	Train top-1 54.203	top-5 99.497	Entropy 2.15744	Latency-mobile: 0.249ms	Flops: 1.13M
+Train [4][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.9537 (0.9537)	Entropy 2.15744 (2.15744)	Top-1 acc 46.094 (46.094)	Top-5 acc 100.000 (100.000)	lr 0.04989
+Train [4][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.7339 (0.8155)	Entropy 2.15747 (2.15745)	Top-1 acc 60.156 (55.746)	Top-5 acc 100.000 (100.000)	lr 0.04985
+Train [4][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 1.1416 (0.8246)	Entropy 2.15732 (2.15744)	Top-1 acc 42.857 (55.645)	Top-5 acc 100.000 (100.000)	lr 0.04980
+==========Valid [4/100]	loss 1.233	top-1 acc 43.027 (61.690)	top-5 acc 100.000	Train top-1 55.645	top-5 100.000	Entropy 2.15732	Latency-mobile: 0.309ms	Flops: 1.29M
+Train [5][0/57]	Time 0.013 (0.013)	Data Time 0.003 (0.003)	Loss 0.7244 (0.7244)	Entropy 2.15732 (2.15732)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.04980
+Train [5][30/57]	Time 0.010 (0.016)	Data Time 0.001 (0.002)	Loss 0.8680 (0.8025)	Entropy 2.15715 (2.15726)	Top-1 acc 56.250 (57.434)	Top-5 acc 100.000 (100.000)	lr 0.04975
+Train [5][57/57]	Time 0.007 (0.016)	Data Time 0.001 (0.002)	Loss 1.2734 (0.8144)	Entropy 2.15708 (2.15720)	Top-1 acc 35.714 (57.291)	Top-5 acc 100.000 (99.932)	lr 0.04969
+==========Valid [5/100]	loss 1.159	top-1 acc 48.117 (61.690)	top-5 acc 100.000	Train top-1 57.291	top-5 99.932	Entropy 2.15708	Latency-mobile: 0.140ms	Flops: 1.29M
+Train [6][0/57]	Time 0.013 (0.013)	Data Time 0.002 (0.002)	Loss 0.8523 (0.8523)	Entropy 2.15708 (2.15708)	Top-1 acc 62.500 (62.500)	Top-5 acc 98.438 (98.438)	lr 0.04969
+Train [6][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.002)	Loss 0.6729 (0.8570)	Entropy 2.15689 (2.15700)	Top-1 acc 63.281 (56.124)	Top-5 acc 100.000 (99.849)	lr 0.04963
+Train [6][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.6899 (0.9811)	Entropy 2.15680 (2.15692)	Top-1 acc 57.143 (53.754)	Top-5 acc 100.000 (99.429)	lr 0.04956
+==========Valid [6/100]	loss 0.813	top-1 acc 59.959 (61.690)	top-5 acc 99.559	Train top-1 53.754	top-5 99.429	Entropy 2.15680	Latency-mobile: 0.140ms	Flops: 1.29M
+Train [7][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.7378 (0.7378)	Entropy 2.15680 (2.15680)	Top-1 acc 54.688 (54.688)	Top-5 acc 100.000 (100.000)	lr 0.04956
+Train [7][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.001)	Loss 2.1433 (0.8680)	Entropy 2.15656 (2.15676)	Top-1 acc 41.406 (56.678)	Top-5 acc 98.438 (99.672)	lr 0.04948
+Train [7][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.002)	Loss 0.6766 (0.8659)	Entropy 2.15645 (2.15663)	Top-1 acc 60.714 (56.638)	Top-5 acc 100.000 (99.660)	lr 0.04940
+==========Valid [7/100]	loss 1.059	top-1 acc 44.486 (61.690)	top-5 acc 99.355	Train top-1 56.638	top-5 99.660	Entropy 2.15645	Latency-mobile: 0.139ms	Flops: 1.49M
+Train [8][0/57]	Time 0.013 (0.013)	Data Time 0.002 (0.002)	Loss 0.6289 (0.6289)	Entropy 2.15645 (2.15645)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.04940
+Train [8][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.9123 (0.7479)	Entropy 2.15602 (2.15619)	Top-1 acc 55.469 (59.098)	Top-5 acc 100.000 (99.849)	lr 0.04931
+Train [8][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.8037 (0.7612)	Entropy 2.15594 (2.15609)	Top-1 acc 55.357 (58.760)	Top-5 acc 98.214 (99.878)	lr 0.04922
+==========Valid [8/100]	loss 1.348	top-1 acc 47.065 (61.690)	top-5 acc 100.000	Train top-1 58.760	top-5 99.878	Entropy 2.15594	Latency-mobile: 0.139ms	Flops: 1.49M
+Train [9][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.9034 (0.9034)	Entropy 2.15594 (2.15594)	Top-1 acc 58.594 (58.594)	Top-5 acc 100.000 (100.000)	lr 0.04921
+Train [9][30/57]	Time 0.010 (0.017)	Data Time 0.002 (0.002)	Loss 0.8350 (0.7633)	Entropy 2.15524 (2.15582)	Top-1 acc 57.031 (59.879)	Top-5 acc 100.000 (99.975)	lr 0.04911
+Train [9][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.6834 (0.7418)	Entropy 2.15446 (2.15534)	Top-1 acc 57.143 (60.637)	Top-5 acc 100.000 (99.986)	lr 0.04901
+==========Valid [9/100]	loss 0.710	top-1 acc 62.131 (62.131)	top-5 acc 100.000	Train top-1 60.637	top-5 99.986	Entropy 2.15446	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [10][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.8032 (0.8032)	Entropy 2.15446 (2.15446)	Top-1 acc 54.688 (54.688)	Top-5 acc 100.000 (100.000)	lr 0.04901
+Train [10][30/57]	Time 0.010 (0.016)	Data Time 0.001 (0.001)	Loss 1.1115 (0.7882)	Entropy 2.15399 (2.15424)	Top-1 acc 57.812 (59.047)	Top-5 acc 100.000 (99.975)	lr 0.04889
+Train [10][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5721 (0.8589)	Entropy 2.15372 (2.15410)	Top-1 acc 64.286 (58.528)	Top-5 acc 100.000 (99.687)	lr 0.04878
+==========Valid [10/100]	loss 1.449	top-1 acc 53.275 (62.131)	top-5 acc 97.693	Train top-1 58.528	top-5 99.687	Entropy 2.15372	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [11][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.6366 (0.6366)	Entropy 2.15372 (2.15372)	Top-1 acc 60.156 (60.156)	Top-5 acc 100.000 (100.000)	lr 0.04878
+Train [11][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.7807 (0.8318)	Entropy 2.15333 (2.15352)	Top-1 acc 57.031 (58.821)	Top-5 acc 100.000 (99.597)	lr 0.04865
+Train [11][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.001)	Loss 0.8300 (0.8048)	Entropy 2.15277 (2.15334)	Top-1 acc 64.286 (58.569)	Top-5 acc 100.000 (99.687)	lr 0.04853
+==========Valid [11/100]	loss 1.327	top-1 acc 53.512 (62.131)	top-5 acc 99.966	Train top-1 58.569	top-5 99.687	Entropy 2.15277	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [12][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5840 (0.5840)	Entropy 2.15277 (2.15277)	Top-1 acc 68.750 (68.750)	Top-5 acc 100.000 (100.000)	lr 0.04852
+Train [12][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6410 (0.7423)	Entropy 2.15257 (2.15266)	Top-1 acc 59.375 (59.173)	Top-5 acc 100.000 (99.950)	lr 0.04838
+Train [12][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.8592 (0.7706)	Entropy 2.15249 (2.15260)	Top-1 acc 58.929 (59.059)	Top-5 acc 100.000 (99.864)	lr 0.04825
+==========Valid [12/100]	loss 1.428	top-1 acc 49.474 (62.131)	top-5 acc 99.932	Train top-1 59.059	top-5 99.864	Entropy 2.15249	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [13][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6784 (0.6784)	Entropy 2.15249 (2.15249)	Top-1 acc 62.500 (62.500)	Top-5 acc 100.000 (100.000)	lr 0.04824
+Train [13][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.7643 (0.7291)	Entropy 2.15248 (2.15255)	Top-1 acc 53.125 (59.980)	Top-5 acc 100.000 (99.874)	lr 0.04809
+Train [13][57/57]	Time 0.008 (0.019)	Data Time 0.001 (0.002)	Loss 0.6325 (0.7168)	Entropy 2.15234 (2.15248)	Top-1 acc 66.071 (61.235)	Top-5 acc 100.000 (99.918)	lr 0.04795
+==========Valid [13/100]	loss 0.848	top-1 acc 60.265 (62.131)	top-5 acc 100.000	Train top-1 61.235	top-5 99.918	Entropy 2.15234	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [14][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6803 (0.6803)	Entropy 2.15234 (2.15234)	Top-1 acc 57.031 (57.031)	Top-5 acc 100.000 (100.000)	lr 0.04794
+Train [14][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.001)	Loss 0.6118 (0.7049)	Entropy 2.15194 (2.15220)	Top-1 acc 66.406 (62.097)	Top-5 acc 100.000 (99.975)	lr 0.04778
+Train [14][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.001)	Loss 0.5497 (0.7132)	Entropy 2.15170 (2.15202)	Top-1 acc 66.071 (61.453)	Top-5 acc 100.000 (99.959)	lr 0.04763
+==========Valid [14/100]	loss 0.810	top-1 acc 61.452 (62.131)	top-5 acc 99.898	Train top-1 61.453	top-5 99.959	Entropy 2.15170	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [15][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6300 (0.6300)	Entropy 2.15170 (2.15170)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.04762
+Train [15][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.6122 (0.7015)	Entropy 2.15180 (2.15175)	Top-1 acc 64.062 (61.643)	Top-5 acc 100.000 (100.000)	lr 0.04744
+Train [15][57/57]	Time 0.009 (0.017)	Data Time 0.001 (0.002)	Loss 0.7733 (0.7216)	Entropy 2.15161 (2.15174)	Top-1 acc 60.714 (61.412)	Top-5 acc 100.000 (99.946)	lr 0.04728
+==========Valid [15/100]	loss 0.917	top-1 acc 61.520 (62.131)	top-5 acc 100.000	Train top-1 61.412	top-5 99.946	Entropy 2.15161	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [16][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.7336 (0.7336)	Entropy 2.15161 (2.15161)	Top-1 acc 59.375 (59.375)	Top-5 acc 100.000 (100.000)	lr 0.04728
+Train [16][30/57]	Time 0.009 (0.017)	Data Time 0.002 (0.002)	Loss 0.6258 (0.7066)	Entropy 2.15121 (2.15152)	Top-1 acc 61.719 (62.702)	Top-5 acc 100.000 (99.924)	lr 0.04709
+Train [16][57/57]	Time 0.006 (0.016)	Data Time 0.000 (0.001)	Loss 6.7785 (0.7801)	Entropy 2.15083 (2.15127)	Top-1 acc 41.071 (61.942)	Top-5 acc 96.429 (99.810)	lr 0.04691
+==========Valid [16/100]	loss 1.177	top-1 acc 54.598 (62.131)	top-5 acc 100.000	Train top-1 61.942	top-5 99.810	Entropy 2.15083	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [17][0/57]	Time 0.011 (0.011)	Data Time 0.003 (0.003)	Loss 1.1021 (1.1021)	Entropy 2.15083 (2.15083)	Top-1 acc 47.656 (47.656)	Top-5 acc 100.000 (100.000)	lr 0.04691
+Train [17][30/57]	Time 0.009 (0.017)	Data Time 0.002 (0.002)	Loss 0.6495 (0.7324)	Entropy 2.15054 (2.15072)	Top-1 acc 65.625 (61.820)	Top-5 acc 100.000 (99.798)	lr 0.04671
+Train [17][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.7388 (0.7395)	Entropy 2.15031 (2.15054)	Top-1 acc 51.786 (61.371)	Top-5 acc 100.000 (99.592)	lr 0.04653
+==========Valid [17/100]	loss 1.360	top-1 acc 55.752 (62.131)	top-5 acc 100.000	Train top-1 61.371	top-5 99.592	Entropy 2.15031	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [18][0/57]	Time 0.013 (0.013)	Data Time 0.003 (0.003)	Loss 0.6393 (0.6393)	Entropy 2.15031 (2.15031)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.04652
+Train [18][30/57]	Time 0.008 (0.017)	Data Time 0.001 (0.002)	Loss 1.8471 (0.7794)	Entropy 2.15001 (2.15030)	Top-1 acc 41.406 (61.391)	Top-5 acc 88.281 (99.042)	lr 0.04631
+Train [18][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6869 (0.7868)	Entropy 2.14969 (2.15007)	Top-1 acc 71.429 (60.990)	Top-5 acc 100.000 (99.415)	lr 0.04612
+==========Valid [18/100]	loss 1.035	top-1 acc 52.698 (62.131)	top-5 acc 100.000	Train top-1 60.990	top-5 99.415	Entropy 2.14969	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [19][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6117 (0.6117)	Entropy 2.14969 (2.14969)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.04611
+Train [19][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.001)	Loss 0.6381 (0.7275)	Entropy 2.14943 (2.14958)	Top-1 acc 60.938 (60.711)	Top-5 acc 100.000 (99.874)	lr 0.04589
+Train [19][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.001)	Loss 0.5739 (0.7626)	Entropy 2.14923 (2.14941)	Top-1 acc 75.000 (60.800)	Top-5 acc 100.000 (99.796)	lr 0.04568
+==========Valid [19/100]	loss 0.939	top-1 acc 61.418 (62.131)	top-5 acc 100.000	Train top-1 60.800	top-5 99.796	Entropy 2.14923	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [20][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6609 (0.6609)	Entropy 2.14923 (2.14923)	Top-1 acc 64.844 (64.844)	Top-5 acc 100.000 (100.000)	lr 0.04568
+Train [20][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6414 (0.7329)	Entropy 2.14931 (2.14932)	Top-1 acc 67.188 (61.568)	Top-5 acc 100.000 (99.446)	lr 0.04545
+Train [20][57/57]	Time 0.010 (0.016)	Data Time 0.001 (0.002)	Loss 0.5352 (0.7178)	Entropy 2.14898 (2.14922)	Top-1 acc 73.214 (61.820)	Top-5 acc 100.000 (99.619)	lr 0.04523
+==========Valid [20/100]	loss 0.883	top-1 acc 61.113 (62.131)	top-5 acc 100.000	Train top-1 61.820	top-5 99.619	Entropy 2.14898	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [21][0/57]	Time 0.012 (0.012)	Data Time 0.002 (0.002)	Loss 0.6492 (0.6492)	Entropy 2.14898 (2.14898)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.04523
+Train [21][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.002)	Loss 0.7843 (0.7125)	Entropy 2.14894 (2.14896)	Top-1 acc 57.812 (61.946)	Top-5 acc 100.000 (99.950)	lr 0.04498
+Train [21][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5363 (0.7312)	Entropy 2.14801 (2.14873)	Top-1 acc 69.643 (60.854)	Top-5 acc 100.000 (99.769)	lr 0.04476
+==========Valid [21/100]	loss 0.724	top-1 acc 61.961 (62.131)	top-5 acc 100.000	Train top-1 60.854	top-5 99.769	Entropy 2.14801	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [22][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.7774 (0.7774)	Entropy 2.14801 (2.14801)	Top-1 acc 57.031 (57.031)	Top-5 acc 100.000 (100.000)	lr 0.04475
+Train [22][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6091 (0.7724)	Entropy 2.14678 (2.14721)	Top-1 acc 66.406 (61.240)	Top-5 acc 100.000 (99.546)	lr 0.04450
+Train [22][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5304 (0.7317)	Entropy 2.14621 (2.14687)	Top-1 acc 76.786 (61.072)	Top-5 acc 100.000 (99.714)	lr 0.04427
+==========Valid [22/100]	loss 0.688	top-1 acc 68.239 (68.239)	top-5 acc 100.000	Train top-1 61.072	top-5 99.714	Entropy 2.14621	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [23][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6409 (0.6409)	Entropy 2.14621 (2.14621)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.04426
+Train [23][30/57]	Time 0.010 (0.017)	Data Time 0.002 (0.002)	Loss 0.6308 (0.6485)	Entropy 2.14577 (2.14604)	Top-1 acc 62.500 (63.004)	Top-5 acc 100.000 (100.000)	lr 0.04400
+Train [23][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6423 (0.6487)	Entropy 2.14572 (2.14590)	Top-1 acc 67.857 (62.908)	Top-5 acc 100.000 (99.986)	lr 0.04376
+==========Valid [23/100]	loss 0.915	top-1 acc 60.570 (68.239)	top-5 acc 100.000	Train top-1 62.908	top-5 99.986	Entropy 2.14572	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [24][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6844 (0.6844)	Entropy 2.14572 (2.14572)	Top-1 acc 62.500 (62.500)	Top-5 acc 100.000 (100.000)	lr 0.04375
+Train [24][30/57]	Time 0.010 (0.017)	Data Time 0.002 (0.001)	Loss 0.5955 (0.6783)	Entropy 2.14613 (2.14594)	Top-1 acc 61.719 (63.130)	Top-5 acc 100.000 (99.975)	lr 0.04348
+Train [24][57/57]	Time 0.007 (0.016)	Data Time 0.001 (0.001)	Loss 0.5850 (0.6774)	Entropy 2.14496 (2.14583)	Top-1 acc 62.500 (62.541)	Top-5 acc 100.000 (99.946)	lr 0.04323
+==========Valid [24/100]	loss 1.062	top-1 acc 62.979 (68.239)	top-5 acc 99.898	Train top-1 62.541	top-5 99.946	Entropy 2.14496	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [25][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5668 (0.5668)	Entropy 2.14496 (2.14496)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.04322
+Train [25][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5880 (0.6468)	Entropy 2.14472 (2.14483)	Top-1 acc 66.406 (63.080)	Top-5 acc 100.000 (99.975)	lr 0.04294
+Train [25][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.001)	Loss 0.6311 (0.6396)	Entropy 2.14388 (2.14459)	Top-1 acc 60.714 (63.874)	Top-5 acc 100.000 (99.986)	lr 0.04269
+==========Valid [25/100]	loss 1.024	top-1 acc 60.740 (68.239)	top-5 acc 100.000	Train top-1 63.874	top-5 99.986	Entropy 2.14388	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [26][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6790 (0.6790)	Entropy 2.14388 (2.14388)	Top-1 acc 57.812 (57.812)	Top-5 acc 100.000 (100.000)	lr 0.04268
+Train [26][30/57]	Time 0.008 (0.016)	Data Time 0.002 (0.001)	Loss 0.9196 (0.6419)	Entropy 2.14267 (2.14330)	Top-1 acc 57.812 (64.390)	Top-5 acc 100.000 (100.000)	lr 0.04239
+Train [26][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.001)	Loss 0.5024 (0.6397)	Entropy 2.14155 (2.14280)	Top-1 acc 71.429 (64.635)	Top-5 acc 100.000 (100.000)	lr 0.04212
+==========Valid [26/100]	loss 0.841	top-1 acc 62.504 (68.239)	top-5 acc 100.000	Train top-1 64.635	top-5 100.000	Entropy 2.14155	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [27][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6389 (0.6389)	Entropy 2.14155 (2.14155)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.04211
+Train [27][30/57]	Time 0.008 (0.017)	Data Time 0.001 (0.002)	Loss 0.6241 (0.6422)	Entropy 2.14127 (2.14138)	Top-1 acc 63.281 (63.407)	Top-5 acc 100.000 (99.975)	lr 0.04182
+Train [27][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.002)	Loss 0.6269 (0.6342)	Entropy 2.14171 (2.14154)	Top-1 acc 62.500 (63.561)	Top-5 acc 100.000 (99.986)	lr 0.04154
+==========Valid [27/100]	loss 1.243	top-1 acc 60.875 (68.239)	top-5 acc 99.864	Train top-1 63.561	top-5 99.986	Entropy 2.14171	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [28][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5691 (0.5691)	Entropy 2.14171 (2.14171)	Top-1 acc 65.625 (65.625)	Top-5 acc 100.000 (100.000)	lr 0.04153
+Train [28][30/57]	Time 0.011 (0.017)	Data Time 0.002 (0.002)	Loss 0.5696 (0.6267)	Entropy 2.14018 (2.14128)	Top-1 acc 65.625 (64.516)	Top-5 acc 100.000 (100.000)	lr 0.04123
+Train [28][57/57]	Time 0.007 (0.017)	Data Time 0.001 (0.002)	Loss 0.5905 (0.6266)	Entropy 2.13921 (2.14066)	Top-1 acc 60.714 (64.513)	Top-5 acc 100.000 (100.000)	lr 0.04095
+==========Valid [28/100]	loss 1.326	top-1 acc 60.909 (68.239)	top-5 acc 99.762	Train top-1 64.513	top-5 100.000	Entropy 2.13921	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [29][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.6003 (0.6003)	Entropy 2.13921 (2.13921)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.04094
+Train [29][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.6710 (0.6641)	Entropy 2.13841 (2.13863)	Top-1 acc 65.625 (63.558)	Top-5 acc 100.000 (100.000)	lr 0.04062
+Train [29][57/57]	Time 0.008 (0.017)	Data Time 0.001 (0.002)	Loss 0.6278 (0.6460)	Entropy 2.13845 (2.13854)	Top-1 acc 60.714 (64.091)	Top-5 acc 100.000 (100.000)	lr 0.04033
+==========Valid [29/100]	loss 0.776	top-1 acc 64.099 (68.239)	top-5 acc 99.966	Train top-1 64.091	top-5 100.000	Entropy 2.13845	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [30][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6062 (0.6062)	Entropy 2.13845 (2.13845)	Top-1 acc 65.625 (65.625)	Top-5 acc 100.000 (100.000)	lr 0.04032
+Train [30][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5739 (0.7493)	Entropy 2.13746 (2.13812)	Top-1 acc 64.062 (62.727)	Top-5 acc 100.000 (99.320)	lr 0.04000
+Train [30][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.001)	Loss 0.5598 (0.7106)	Entropy 2.13668 (2.13762)	Top-1 acc 76.786 (63.588)	Top-5 acc 100.000 (99.429)	lr 0.03971
+==========Valid [30/100]	loss 0.716	top-1 acc 64.371 (68.239)	top-5 acc 99.966	Train top-1 63.588	top-5 99.429	Entropy 2.13668	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [31][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6103 (0.6103)	Entropy 2.13668 (2.13668)	Top-1 acc 69.531 (69.531)	Top-5 acc 100.000 (100.000)	lr 0.03969
+Train [31][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5473 (0.8230)	Entropy 2.13659 (2.13663)	Top-1 acc 67.188 (62.702)	Top-5 acc 100.000 (100.000)	lr 0.03936
+Train [31][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6921 (0.8220)	Entropy 2.13658 (2.13660)	Top-1 acc 55.357 (62.486)	Top-5 acc 100.000 (99.606)	lr 0.03906
+==========Valid [31/100]	loss 0.803	top-1 acc 60.265 (68.239)	top-5 acc 99.593	Train top-1 62.486	top-5 99.606	Entropy 2.13658	Latency-mobile: 0.263ms	Flops: 1.99M
+Train [32][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6041 (0.6041)	Entropy 2.13658 (2.13658)	Top-1 acc 68.750 (68.750)	Top-5 acc 100.000 (100.000)	lr 0.03905
+Train [32][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6907 (0.6732)	Entropy 2.13555 (2.13633)	Top-1 acc 59.375 (62.903)	Top-5 acc 100.000 (99.698)	lr 0.03871
+Train [32][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.7631 (0.6675)	Entropy 2.13474 (2.13571)	Top-1 acc 50.000 (62.690)	Top-5 acc 100.000 (99.810)	lr 0.03841
+==========Valid [32/100]	loss 0.867	top-1 acc 60.842 (68.239)	top-5 acc 99.898	Train top-1 62.690	top-5 99.810	Entropy 2.13474	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [33][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.6855 (0.6855)	Entropy 2.13474 (2.13474)	Top-1 acc 59.375 (59.375)	Top-5 acc 100.000 (100.000)	lr 0.03840
+Train [33][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.5554 (0.6411)	Entropy 2.13297 (2.13387)	Top-1 acc 68.750 (63.836)	Top-5 acc 100.000 (99.975)	lr 0.03805
+Train [33][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.6696 (0.6347)	Entropy 2.13306 (2.13345)	Top-1 acc 62.500 (63.683)	Top-5 acc 100.000 (99.986)	lr 0.03774
+==========Valid [33/100]	loss 0.892	top-1 acc 61.656 (68.239)	top-5 acc 100.000	Train top-1 63.683	top-5 99.986	Entropy 2.13306	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [34][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.4993 (0.4993)	Entropy 2.13306 (2.13306)	Top-1 acc 75.000 (75.000)	Top-5 acc 100.000 (100.000)	lr 0.03773
+Train [34][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.002)	Loss 0.6702 (0.6428)	Entropy 2.13211 (2.13269)	Top-1 acc 61.719 (63.710)	Top-5 acc 100.000 (99.950)	lr 0.03737
+Train [34][57/57]	Time 0.007 (0.015)	Data Time 0.000 (0.002)	Loss 0.6834 (0.6566)	Entropy 2.13178 (2.13234)	Top-1 acc 62.500 (63.643)	Top-5 acc 100.000 (99.932)	lr 0.03706
+==========Valid [34/100]	loss 0.683	top-1 acc 66.373 (68.239)	top-5 acc 100.000	Train top-1 63.643	top-5 99.932	Entropy 2.13178	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [35][0/57]	Time 0.012 (0.012)	Data Time 0.003 (0.003)	Loss 0.5890 (0.5890)	Entropy 2.13178 (2.13178)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.03704
+Train [35][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.5354 (0.6394)	Entropy 2.13162 (2.13168)	Top-1 acc 72.656 (64.415)	Top-5 acc 100.000 (99.849)	lr 0.03669
+Train [35][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.8891 (0.6372)	Entropy 2.13176 (2.13167)	Top-1 acc 51.786 (64.146)	Top-5 acc 100.000 (99.918)	lr 0.03636
+==========Valid [35/100]	loss 0.619	top-1 acc 65.796 (68.239)	top-5 acc 100.000	Train top-1 64.146	top-5 99.918	Entropy 2.13176	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [36][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.6142 (0.6142)	Entropy 2.13176 (2.13176)	Top-1 acc 68.750 (68.750)	Top-5 acc 100.000 (100.000)	lr 0.03635
+Train [36][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.5807 (0.6311)	Entropy 2.13145 (2.13168)	Top-1 acc 64.844 (63.533)	Top-5 acc 100.000 (100.000)	lr 0.03599
+Train [36][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.002)	Loss 0.4949 (0.6288)	Entropy 2.13117 (2.13151)	Top-1 acc 66.071 (64.241)	Top-5 acc 100.000 (100.000)	lr 0.03566
+==========Valid [36/100]	loss 0.663	top-1 acc 69.494 (69.494)	top-5 acc 100.000	Train top-1 64.241	top-5 100.000	Entropy 2.13117	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [37][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6293 (0.6293)	Entropy 2.13117 (2.13117)	Top-1 acc 68.750 (68.750)	Top-5 acc 100.000 (100.000)	lr 0.03564
+Train [37][30/57]	Time 0.010 (0.016)	Data Time 0.001 (0.001)	Loss 0.8763 (0.6575)	Entropy 2.12934 (2.13064)	Top-1 acc 51.562 (62.802)	Top-5 acc 100.000 (99.975)	lr 0.03528
+Train [37][57/57]	Time 0.010 (0.016)	Data Time 0.001 (0.001)	Loss 0.6275 (0.6357)	Entropy 2.12904 (2.12994)	Top-1 acc 69.643 (63.792)	Top-5 acc 100.000 (99.973)	lr 0.03494
+==========Valid [37/100]	loss 0.630	top-1 acc 67.458 (69.494)	top-5 acc 100.000	Train top-1 63.792	top-5 99.973	Entropy 2.12904	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [38][0/57]	Time 0.033 (0.033)	Data Time 0.012 (0.012)	Loss 0.6180 (0.6180)	Entropy 2.12904 (2.12904)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.03493
+Train [38][30/57]	Time 0.009 (0.020)	Data Time 0.001 (0.003)	Loss 0.5769 (0.6159)	Entropy 2.12861 (2.12891)	Top-1 acc 69.531 (65.852)	Top-5 acc 100.000 (99.975)	lr 0.03455
+Train [38][57/57]	Time 0.009 (0.018)	Data Time 0.000 (0.002)	Loss 0.5941 (0.6367)	Entropy 2.12689 (2.12847)	Top-1 acc 62.500 (64.799)	Top-5 acc 100.000 (99.973)	lr 0.03422
+==========Valid [38/100]	loss 0.669	top-1 acc 63.862 (69.494)	top-5 acc 100.000	Train top-1 64.799	top-5 99.973	Entropy 2.12689	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [39][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.7130 (0.7130)	Entropy 2.12689 (2.12689)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.03420
+Train [39][30/57]	Time 0.010 (0.017)	Data Time 0.002 (0.002)	Loss 0.6404 (0.6240)	Entropy 2.12536 (2.12651)	Top-1 acc 62.500 (64.516)	Top-5 acc 100.000 (100.000)	lr 0.03382
+Train [39][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.5610 (0.6258)	Entropy 2.12489 (2.12583)	Top-1 acc 62.500 (64.894)	Top-5 acc 100.000 (100.000)	lr 0.03348
+==========Valid [39/100]	loss 0.834	top-1 acc 62.878 (69.494)	top-5 acc 99.932	Train top-1 64.894	top-5 100.000	Entropy 2.12489	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [40][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5970 (0.5970)	Entropy 2.12489 (2.12489)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.03347
+Train [40][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6453 (0.6524)	Entropy 2.12432 (2.12476)	Top-1 acc 62.500 (63.861)	Top-5 acc 100.000 (100.000)	lr 0.03309
+Train [40][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.5753 (0.6448)	Entropy 2.12366 (2.12442)	Top-1 acc 62.500 (64.295)	Top-5 acc 100.000 (99.986)	lr 0.03274
+==========Valid [40/100]	loss 0.597	top-1 acc 64.913 (69.494)	top-5 acc 100.000	Train top-1 64.295	top-5 99.986	Entropy 2.12366	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [41][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6317 (0.6317)	Entropy 2.12366 (2.12366)	Top-1 acc 57.031 (57.031)	Top-5 acc 99.219 (99.219)	lr 0.03273
+Train [41][30/57]	Time 0.008 (0.016)	Data Time 0.002 (0.002)	Loss 0.5917 (0.6334)	Entropy 2.12246 (2.12353)	Top-1 acc 65.625 (63.508)	Top-5 acc 100.000 (99.924)	lr 0.03234
+Train [41][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.5748 (0.6255)	Entropy 2.12147 (2.12273)	Top-1 acc 66.071 (64.581)	Top-5 acc 100.000 (99.946)	lr 0.03199
+==========Valid [41/100]	loss 0.663	top-1 acc 65.015 (69.494)	top-5 acc 100.000	Train top-1 64.581	top-5 99.946	Entropy 2.12147	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [42][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5792 (0.5792)	Entropy 2.12147 (2.12147)	Top-1 acc 67.188 (67.188)	Top-5 acc 100.000 (100.000)	lr 0.03197
+Train [42][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.002)	Loss 0.6098 (0.6402)	Entropy 2.12123 (2.12138)	Top-1 acc 64.062 (63.609)	Top-5 acc 100.000 (100.000)	lr 0.03158
+Train [42][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.002)	Loss 0.5010 (0.6267)	Entropy 2.11958 (2.12124)	Top-1 acc 75.000 (63.955)	Top-5 acc 100.000 (100.000)	lr 0.03123
+==========Valid [42/100]	loss 0.638	top-1 acc 66.135 (69.494)	top-5 acc 100.000	Train top-1 63.955	top-5 100.000	Entropy 2.11958	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [43][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6710 (0.6710)	Entropy 2.11958 (2.11958)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.03122
+Train [43][30/57]	Time 0.008 (0.016)	Data Time 0.002 (0.002)	Loss 0.6538 (0.6493)	Entropy 2.11758 (2.11841)	Top-1 acc 58.594 (63.659)	Top-5 acc 100.000 (99.874)	lr 0.03082
+Train [43][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.6817 (0.6417)	Entropy 2.11593 (2.11749)	Top-1 acc 60.714 (64.295)	Top-5 acc 100.000 (99.932)	lr 0.03047
+==========Valid [43/100]	loss 0.805	top-1 acc 65.524 (69.494)	top-5 acc 100.000	Train top-1 64.295	top-5 99.932	Entropy 2.11593	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [44][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6327 (0.6327)	Entropy 2.11593 (2.11593)	Top-1 acc 60.938 (60.938)	Top-5 acc 100.000 (100.000)	lr 0.03045
+Train [44][30/57]	Time 0.008 (0.017)	Data Time 0.001 (0.002)	Loss 0.6821 (0.8315)	Entropy 2.11599 (2.11593)	Top-1 acc 55.469 (63.432)	Top-5 acc 100.000 (99.975)	lr 0.03006
+Train [44][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.8515 (0.7299)	Entropy 2.11555 (2.11585)	Top-1 acc 53.571 (64.486)	Top-5 acc 100.000 (99.986)	lr 0.02970
+==========Valid [44/100]	loss 0.766	top-1 acc 63.794 (69.494)	top-5 acc 99.932	Train top-1 64.486	top-5 99.986	Entropy 2.11555	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [45][0/57]	Time 0.014 (0.014)	Data Time 0.002 (0.002)	Loss 0.5223 (0.5223)	Entropy 2.11555 (2.11555)	Top-1 acc 69.531 (69.531)	Top-5 acc 100.000 (100.000)	lr 0.02968
+Train [45][30/57]	Time 0.011 (0.016)	Data Time 0.002 (0.002)	Loss 0.6416 (0.6214)	Entropy 2.11618 (2.11604)	Top-1 acc 65.625 (65.751)	Top-5 acc 100.000 (99.975)	lr 0.02928
+Train [45][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.002)	Loss 0.5854 (0.6097)	Entropy 2.11437 (2.11560)	Top-1 acc 66.071 (66.036)	Top-5 acc 100.000 (99.959)	lr 0.02892
+==========Valid [45/100]	loss 0.764	top-1 acc 65.287 (69.494)	top-5 acc 99.898	Train top-1 66.036	top-5 99.959	Entropy 2.11437	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [46][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6166 (0.6166)	Entropy 2.11437 (2.11437)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.02891
+Train [46][30/57]	Time 0.010 (0.017)	Data Time 0.001 (0.001)	Loss 0.7130 (0.6203)	Entropy 2.11410 (2.11426)	Top-1 acc 60.938 (65.121)	Top-5 acc 100.000 (99.924)	lr 0.02851
+Train [46][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5558 (0.6352)	Entropy 2.11197 (2.11380)	Top-1 acc 67.857 (64.703)	Top-5 acc 100.000 (99.959)	lr 0.02815
+==========Valid [46/100]	loss 0.711	top-1 acc 63.828 (69.494)	top-5 acc 99.966	Train top-1 64.703	top-5 99.959	Entropy 2.11197	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [47][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6551 (0.6551)	Entropy 2.11197 (2.11197)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.02813
+Train [47][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.7581 (0.6197)	Entropy 2.10668 (2.10912)	Top-1 acc 63.281 (65.197)	Top-5 acc 100.000 (100.000)	lr 0.02773
+Train [47][57/57]	Time 0.007 (0.016)	Data Time 0.001 (0.001)	Loss 0.5409 (0.6263)	Entropy 2.10500 (2.10761)	Top-1 acc 71.429 (64.690)	Top-5 acc 100.000 (99.986)	lr 0.02737
+==========Valid [47/100]	loss 0.668	top-1 acc 65.490 (69.494)	top-5 acc 100.000	Train top-1 64.690	top-5 99.986	Entropy 2.10500	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [48][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6394 (0.6394)	Entropy 2.10500 (2.10500)	Top-1 acc 63.281 (63.281)	Top-5 acc 100.000 (100.000)	lr 0.02735
+Train [48][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.001)	Loss 0.5506 (0.5988)	Entropy 2.10386 (2.10448)	Top-1 acc 67.969 (65.222)	Top-5 acc 100.000 (100.000)	lr 0.02695
+Train [48][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6337 (0.6235)	Entropy 2.10361 (2.10415)	Top-1 acc 62.500 (64.744)	Top-5 acc 100.000 (99.986)	lr 0.02658
+==========Valid [48/100]	loss 0.679	top-1 acc 65.796 (69.494)	top-5 acc 99.932	Train top-1 64.744	top-5 99.986	Entropy 2.10361	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [49][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5441 (0.5441)	Entropy 2.10361 (2.10361)	Top-1 acc 64.844 (64.844)	Top-5 acc 100.000 (100.000)	lr 0.02657
+Train [49][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.001)	Loss 0.5687 (0.6614)	Entropy 2.10237 (2.10302)	Top-1 acc 66.406 (63.886)	Top-5 acc 100.000 (99.899)	lr 0.02616
+Train [49][57/57]	Time 0.009 (0.015)	Data Time 0.001 (0.002)	Loss 0.6306 (0.6743)	Entropy 2.09953 (2.10222)	Top-1 acc 58.929 (64.255)	Top-5 acc 100.000 (99.810)	lr 0.02580
+==========Valid [49/100]	loss 0.768	top-1 acc 63.590 (69.494)	top-5 acc 99.898	Train top-1 64.255	top-5 99.810	Entropy 2.09953	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [50][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5975 (0.5975)	Entropy 2.09953 (2.09953)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.02579
+Train [50][30/57]	Time 0.010 (0.015)	Data Time 0.001 (0.002)	Loss 0.5467 (0.6081)	Entropy 2.09789 (2.09832)	Top-1 acc 72.656 (65.449)	Top-5 acc 100.000 (99.950)	lr 0.02538
+Train [50][57/57]	Time 0.007 (0.015)	Data Time 0.001 (0.002)	Loss 0.7652 (0.6117)	Entropy 2.09686 (2.09810)	Top-1 acc 58.929 (65.261)	Top-5 acc 100.000 (99.973)	lr 0.02501
+==========Valid [50/100]	loss 0.729	top-1 acc 65.219 (69.494)	top-5 acc 100.000	Train top-1 65.261	top-5 99.973	Entropy 2.09686	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [51][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.6043 (0.6043)	Entropy 2.09686 (2.09686)	Top-1 acc 64.844 (64.844)	Top-5 acc 100.000 (100.000)	lr 0.02500
+Train [51][30/57]	Time 0.009 (0.015)	Data Time 0.001 (0.002)	Loss 0.6614 (0.5961)	Entropy 2.09558 (2.09601)	Top-1 acc 63.281 (66.608)	Top-5 acc 100.000 (99.950)	lr 0.02459
+Train [51][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6569 (0.6042)	Entropy 2.09485 (2.09568)	Top-1 acc 58.929 (66.104)	Top-5 acc 100.000 (99.959)	lr 0.02423
+==========Valid [51/100]	loss 0.756	top-1 acc 62.979 (69.494)	top-5 acc 100.000	Train top-1 66.104	top-5 99.959	Entropy 2.09485	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [52][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.6089 (0.6089)	Entropy 2.09485 (2.09485)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.02421
+Train [52][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5811 (0.6016)	Entropy 2.09430 (2.09455)	Top-1 acc 63.281 (66.910)	Top-5 acc 100.000 (100.000)	lr 0.02381
+Train [52][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.7082 (0.6601)	Entropy 2.09412 (2.09440)	Top-1 acc 58.929 (66.104)	Top-5 acc 100.000 (99.782)	lr 0.02344
+==========Valid [52/100]	loss 0.872	top-1 acc 63.997 (69.494)	top-5 acc 100.000	Train top-1 66.104	top-5 99.782	Entropy 2.09412	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [53][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.7434 (0.7434)	Entropy 2.09412 (2.09412)	Top-1 acc 58.594 (58.594)	Top-5 acc 100.000 (100.000)	lr 0.02343
+Train [53][30/57]	Time 0.009 (0.017)	Data Time 0.001 (0.002)	Loss 0.7063 (0.6581)	Entropy 2.08998 (2.09231)	Top-1 acc 63.281 (64.491)	Top-5 acc 100.000 (100.000)	lr 0.02303
+Train [53][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.001)	Loss 0.7029 (0.7085)	Entropy 2.08803 (2.09075)	Top-1 acc 60.714 (64.567)	Top-5 acc 100.000 (99.728)	lr 0.02266
+==========Valid [53/100]	loss 0.679	top-1 acc 64.676 (69.494)	top-5 acc 100.000	Train top-1 64.567	top-5 99.728	Entropy 2.08803	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [54][0/57]	Time 0.012 (0.012)	Data Time 0.003 (0.003)	Loss 0.5873 (0.5873)	Entropy 2.08803 (2.08803)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.02265
+Train [54][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.001)	Loss 0.6756 (0.6304)	Entropy 2.08827 (2.08805)	Top-1 acc 58.594 (66.028)	Top-5 acc 100.000 (100.000)	lr 0.02224
+Train [54][57/57]	Time 0.010 (0.016)	Data Time 0.001 (0.002)	Loss 0.4763 (0.6246)	Entropy 2.08879 (2.08823)	Top-1 acc 73.214 (65.941)	Top-5 acc 100.000 (100.000)	lr 0.02188
+==========Valid [54/100]	loss 0.622	top-1 acc 66.814 (69.494)	top-5 acc 99.864	Train top-1 65.941	top-5 100.000	Entropy 2.08879	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [55][0/57]	Time 0.013 (0.013)	Data Time 0.002 (0.002)	Loss 0.6365 (0.6365)	Entropy 2.08879 (2.08879)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.02187
+Train [55][30/57]	Time 0.008 (0.018)	Data Time 0.001 (0.002)	Loss 0.5700 (0.5938)	Entropy 2.08797 (2.08894)	Top-1 acc 64.844 (67.061)	Top-5 acc 100.000 (100.000)	lr 0.02146
+Train [55][57/57]	Time 0.008 (0.017)	Data Time 0.001 (0.002)	Loss 0.6067 (0.5973)	Entropy 2.08692 (2.08813)	Top-1 acc 73.214 (67.002)	Top-5 acc 100.000 (99.986)	lr 0.02110
+==========Valid [55/100]	loss 0.783	top-1 acc 65.898 (69.494)	top-5 acc 100.000	Train top-1 67.002	top-5 99.986	Entropy 2.08692	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [56][0/57]	Time 0.010 (0.010)	Data Time 0.001 (0.001)	Loss 0.6379 (0.6379)	Entropy 2.08692 (2.08692)	Top-1 acc 61.719 (61.719)	Top-5 acc 100.000 (100.000)	lr 0.02109
+Train [56][30/57]	Time 0.011 (0.016)	Data Time 0.002 (0.001)	Loss 0.6393 (0.6162)	Entropy 2.08661 (2.08676)	Top-1 acc 62.500 (65.575)	Top-5 acc 100.000 (99.975)	lr 0.02069
+Train [56][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.001)	Loss 0.5197 (0.6141)	Entropy 2.08665 (2.08669)	Top-1 acc 80.357 (65.955)	Top-5 acc 100.000 (99.986)	lr 0.02033
+==========Valid [56/100]	loss 0.770	top-1 acc 65.422 (69.494)	top-5 acc 100.000	Train top-1 65.955	top-5 99.986	Entropy 2.08665	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [57][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.6363 (0.6363)	Entropy 2.08665 (2.08665)	Top-1 acc 64.062 (64.062)	Top-5 acc 100.000 (100.000)	lr 0.02032
+Train [57][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.001)	Loss 0.5886 (0.6066)	Entropy 2.08574 (2.08626)	Top-1 acc 68.750 (65.953)	Top-5 acc 100.000 (100.000)	lr 0.01992
+Train [57][57/57]	Time 0.010 (0.016)	Data Time 0.001 (0.001)	Loss 0.6117 (0.6025)	Entropy 2.08503 (2.08581)	Top-1 acc 62.500 (66.200)	Top-5 acc 100.000 (100.000)	lr 0.01956
+==========Valid [57/100]	loss 1.020	top-1 acc 65.185 (69.494)	top-5 acc 99.932	Train top-1 66.200	top-5 100.000	Entropy 2.08503	Latency-mobile: 0.262ms	Flops: 2.09M
+Train [58][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5537 (0.5537)	Entropy 2.08503 (2.08503)	Top-1 acc 73.438 (73.438)	Top-5 acc 100.000 (100.000)	lr 0.01955
+Train [58][30/57]	Time 0.010 (0.016)	Data Time 0.001 (0.001)	Loss 0.5400 (0.5797)	Entropy 2.08130 (2.08353)	Top-1 acc 67.188 (68.322)	Top-5 acc 100.000 (100.000)	lr 0.01915
+Train [58][57/57]	Time 0.009 (0.016)	Data Time 0.000 (0.001)	Loss 0.4485 (0.5947)	Entropy 2.08105 (2.08241)	Top-1 acc 78.571 (67.206)	Top-5 acc 100.000 (100.000)	lr 0.01880
+==========Valid [58/100]	loss 0.644	top-1 acc 66.780 (69.494)	top-5 acc 99.932	Train top-1 67.206	top-5 100.000	Entropy 2.08105	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [59][0/57]	Time 0.010 (0.010)	Data Time 0.001 (0.001)	Loss 0.5187 (0.5187)	Entropy 2.08105 (2.08105)	Top-1 acc 72.656 (72.656)	Top-5 acc 100.000 (100.000)	lr 0.01878
+Train [59][30/57]	Time 0.010 (0.016)	Data Time 0.001 (0.001)	Loss 0.5147 (0.5982)	Entropy 2.08054 (2.08110)	Top-1 acc 70.312 (68.095)	Top-5 acc 100.000 (100.000)	lr 0.01839
+Train [59][57/57]	Time 0.007 (0.015)	Data Time 0.001 (0.001)	Loss 0.6578 (0.6092)	Entropy 2.07959 (2.08054)	Top-1 acc 58.929 (67.029)	Top-5 acc 100.000 (100.000)	lr 0.01804
+==========Valid [59/100]	loss 0.661	top-1 acc 66.067 (69.494)	top-5 acc 100.000	Train top-1 67.029	top-5 100.000	Entropy 2.07959	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [60][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5766 (0.5766)	Entropy 2.07959 (2.07959)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.01803
+Train [60][30/57]	Time 0.008 (0.015)	Data Time 0.002 (0.002)	Loss 0.6848 (0.5914)	Entropy 2.07896 (2.07923)	Top-1 acc 65.625 (68.296)	Top-5 acc 100.000 (100.000)	lr 0.01764
+Train [60][57/57]	Time 0.009 (0.015)	Data Time 0.001 (0.002)	Loss 0.5645 (0.5938)	Entropy 2.07875 (2.07908)	Top-1 acc 67.857 (67.193)	Top-5 acc 100.000 (100.000)	lr 0.01729
+==========Valid [60/100]	loss 0.654	top-1 acc 71.259 (71.259)	top-5 acc 100.000	Train top-1 67.193	top-5 100.000	Entropy 2.07875	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [61][0/57]	Time 0.012 (0.012)	Data Time 0.002 (0.002)	Loss 0.5237 (0.5237)	Entropy 2.07875 (2.07875)	Top-1 acc 69.531 (69.531)	Top-5 acc 100.000 (100.000)	lr 0.01727
+Train [61][30/57]	Time 0.008 (0.017)	Data Time 0.001 (0.001)	Loss 0.6578 (0.6002)	Entropy 2.07634 (2.07829)	Top-1 acc 67.188 (66.986)	Top-5 acc 100.000 (99.975)	lr 0.01689
+Train [61][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.7057 (0.5991)	Entropy 2.07358 (2.07683)	Top-1 acc 62.500 (67.084)	Top-5 acc 98.214 (99.959)	lr 0.01654
+==========Valid [61/100]	loss 0.635	top-1 acc 68.510 (71.259)	top-5 acc 99.966	Train top-1 67.084	top-5 99.959	Entropy 2.07358	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [62][0/57]	Time 0.012 (0.012)	Data Time 0.003 (0.003)	Loss 0.6654 (0.6654)	Entropy 2.07358 (2.07358)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.01653
+Train [62][30/57]	Time 0.009 (0.017)	Data Time 0.002 (0.002)	Loss 0.5792 (0.5927)	Entropy 2.06986 (2.07259)	Top-1 acc 70.312 (66.608)	Top-5 acc 100.000 (100.000)	lr 0.01615
+Train [62][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.002)	Loss 0.7285 (0.5949)	Entropy 2.06893 (2.07103)	Top-1 acc 55.357 (66.240)	Top-5 acc 100.000 (100.000)	lr 0.01581
+==========Valid [62/100]	loss 0.620	top-1 acc 68.612 (71.259)	top-5 acc 100.000	Train top-1 66.240	top-5 100.000	Entropy 2.06893	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [63][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5574 (0.5574)	Entropy 2.06893 (2.06893)	Top-1 acc 71.094 (71.094)	Top-5 acc 100.000 (100.000)	lr 0.01580
+Train [63][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5271 (0.5989)	Entropy 2.06842 (2.06873)	Top-1 acc 72.656 (66.356)	Top-5 acc 100.000 (100.000)	lr 0.01542
+Train [63][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.7026 (0.5920)	Entropy 2.06510 (2.06820)	Top-1 acc 62.500 (66.989)	Top-5 acc 100.000 (100.000)	lr 0.01508
+==========Valid [63/100]	loss 0.636	top-1 acc 68.171 (71.259)	top-5 acc 100.000	Train top-1 66.989	top-5 100.000	Entropy 2.06510	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [64][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.6276 (0.6276)	Entropy 2.06510 (2.06510)	Top-1 acc 62.500 (62.500)	Top-5 acc 100.000 (100.000)	lr 0.01507
+Train [64][30/57]	Time 0.008 (0.015)	Data Time 0.002 (0.002)	Loss 0.6633 (0.5977)	Entropy 2.06289 (2.06427)	Top-1 acc 64.062 (66.305)	Top-5 acc 100.000 (100.000)	lr 0.01470
+Train [64][57/57]	Time 0.007 (0.016)	Data Time 0.001 (0.001)	Loss 0.6974 (0.5926)	Entropy 2.06198 (2.06334)	Top-1 acc 62.500 (66.689)	Top-5 acc 100.000 (100.000)	lr 0.01437
+==========Valid [64/100]	loss 0.662	top-1 acc 66.339 (71.259)	top-5 acc 100.000	Train top-1 66.689	top-5 100.000	Entropy 2.06198	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [65][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5257 (0.5257)	Entropy 2.06198 (2.06198)	Top-1 acc 68.750 (68.750)	Top-5 acc 100.000 (100.000)	lr 0.01436
+Train [65][30/57]	Time 0.010 (0.017)	Data Time 0.002 (0.002)	Loss 0.5889 (0.5834)	Entropy 2.06193 (2.06199)	Top-1 acc 71.094 (67.868)	Top-5 acc 100.000 (100.000)	lr 0.01399
+Train [65][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6378 (0.5854)	Entropy 2.05813 (2.06142)	Top-1 acc 64.286 (67.478)	Top-5 acc 100.000 (100.000)	lr 0.01366
+==========Valid [65/100]	loss 0.631	top-1 acc 66.678 (71.259)	top-5 acc 100.000	Train top-1 67.478	top-5 100.000	Entropy 2.05813	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [66][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5724 (0.5724)	Entropy 2.05813 (2.05813)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.01365
+Train [66][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.001)	Loss 0.5494 (0.5805)	Entropy 2.05559 (2.05667)	Top-1 acc 68.750 (67.389)	Top-5 acc 100.000 (100.000)	lr 0.01329
+Train [66][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.001)	Loss 0.5417 (0.5840)	Entropy 2.05379 (2.05555)	Top-1 acc 71.429 (67.451)	Top-5 acc 100.000 (100.000)	lr 0.01297
+==========Valid [66/100]	loss 0.604	top-1 acc 71.021 (71.259)	top-5 acc 100.000	Train top-1 67.451	top-5 100.000	Entropy 2.05379	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [67][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6613 (0.6613)	Entropy 2.05379 (2.05379)	Top-1 acc 55.469 (55.469)	Top-5 acc 100.000 (100.000)	lr 0.01296
+Train [67][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5798 (0.5869)	Entropy 2.05351 (2.05361)	Top-1 acc 68.750 (67.213)	Top-5 acc 100.000 (100.000)	lr 0.01260
+Train [67][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.6653 (0.5875)	Entropy 2.05107 (2.05295)	Top-1 acc 58.929 (67.070)	Top-5 acc 100.000 (100.000)	lr 0.01229
+==========Valid [67/100]	loss 0.601	top-1 acc 71.157 (71.259)	top-5 acc 100.000	Train top-1 67.070	top-5 100.000	Entropy 2.05107	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [68][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5290 (0.5290)	Entropy 2.05107 (2.05107)	Top-1 acc 69.531 (69.531)	Top-5 acc 100.000 (100.000)	lr 0.01227
+Train [68][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.5033 (0.5782)	Entropy 2.05088 (2.05109)	Top-1 acc 74.219 (68.170)	Top-5 acc 100.000 (100.000)	lr 0.01193
+Train [68][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6725 (0.5815)	Entropy 2.04804 (2.05025)	Top-1 acc 62.500 (67.546)	Top-5 acc 100.000 (100.000)	lr 0.01162
+==========Valid [68/100]	loss 0.585	top-1 acc 72.243 (72.243)	top-5 acc 100.000	Train top-1 67.546	top-5 100.000	Entropy 2.04804	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [69][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6226 (0.6226)	Entropy 2.04804 (2.04804)	Top-1 acc 68.750 (68.750)	Top-5 acc 100.000 (100.000)	lr 0.01160
+Train [69][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5250 (0.5898)	Entropy 2.04702 (2.04748)	Top-1 acc 71.875 (67.843)	Top-5 acc 100.000 (100.000)	lr 0.01126
+Train [69][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5737 (0.5938)	Entropy 2.04613 (2.04709)	Top-1 acc 62.500 (67.424)	Top-5 acc 100.000 (100.000)	lr 0.01096
+==========Valid [69/100]	loss 0.593	top-1 acc 67.017 (72.243)	top-5 acc 100.000	Train top-1 67.424	top-5 100.000	Entropy 2.04613	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [70][0/57]	Time 0.009 (0.009)	Data Time 0.001 (0.001)	Loss 0.5738 (0.5738)	Entropy 2.04613 (2.04613)	Top-1 acc 64.062 (64.062)	Top-5 acc 100.000 (100.000)	lr 0.01095
+Train [70][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.5949 (0.5792)	Entropy 2.04533 (2.04579)	Top-1 acc 63.281 (67.213)	Top-5 acc 100.000 (100.000)	lr 0.01061
+Train [70][57/57]	Time 0.007 (0.015)	Data Time 0.000 (0.001)	Loss 0.7645 (0.5802)	Entropy 2.04546 (2.04561)	Top-1 acc 53.571 (67.533)	Top-5 acc 100.000 (100.000)	lr 0.01032
+==========Valid [70/100]	loss 0.591	top-1 acc 68.816 (72.243)	top-5 acc 100.000	Train top-1 67.533	top-5 100.000	Entropy 2.04546	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [71][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6439 (0.6439)	Entropy 2.04546 (2.04546)	Top-1 acc 57.031 (57.031)	Top-5 acc 100.000 (100.000)	lr 0.01031
+Train [71][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6179 (0.6069)	Entropy 2.04534 (2.04539)	Top-1 acc 67.188 (66.709)	Top-5 acc 100.000 (99.975)	lr 0.00998
+Train [71][57/57]	Time 0.008 (0.015)	Data Time 0.000 (0.001)	Loss 0.5640 (0.6008)	Entropy 2.04516 (2.04533)	Top-1 acc 69.643 (66.880)	Top-5 acc 100.000 (99.986)	lr 0.00969
+==========Valid [71/100]	loss 0.600	top-1 acc 73.023 (73.023)	top-5 acc 100.000	Train top-1 66.880	top-5 99.986	Entropy 2.04516	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [72][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5505 (0.5505)	Entropy 2.04516 (2.04516)	Top-1 acc 71.875 (71.875)	Top-5 acc 100.000 (100.000)	lr 0.00968
+Train [72][30/57]	Time 0.009 (0.015)	Data Time 0.002 (0.002)	Loss 0.5812 (0.5900)	Entropy 2.04493 (2.04506)	Top-1 acc 68.750 (67.818)	Top-5 acc 100.000 (100.000)	lr 0.00936
+Train [72][57/57]	Time 0.008 (0.016)	Data Time 0.000 (0.001)	Loss 0.4839 (0.5853)	Entropy 2.04257 (2.04456)	Top-1 acc 75.000 (67.723)	Top-5 acc 100.000 (100.000)	lr 0.00907
+==========Valid [72/100]	loss 0.628	top-1 acc 69.868 (73.023)	top-5 acc 100.000	Train top-1 67.723	top-5 100.000	Entropy 2.04257	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [73][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.5361 (0.5361)	Entropy 2.04257 (2.04257)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00906
+Train [73][30/57]	Time 0.009 (0.015)	Data Time 0.001 (0.001)	Loss 0.4858 (0.5852)	Entropy 2.04096 (2.04145)	Top-1 acc 71.875 (67.339)	Top-5 acc 100.000 (100.000)	lr 0.00875
+Train [73][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5944 (0.5796)	Entropy 2.03805 (2.04095)	Top-1 acc 66.071 (67.723)	Top-5 acc 100.000 (100.000)	lr 0.00848
+==========Valid [73/100]	loss 0.607	top-1 acc 67.662 (73.023)	top-5 acc 100.000	Train top-1 67.723	top-5 100.000	Entropy 2.03805	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [74][0/57]	Time 0.011 (0.011)	Data Time 0.003 (0.003)	Loss 0.4386 (0.4386)	Entropy 2.03805 (2.03805)	Top-1 acc 76.562 (76.562)	Top-5 acc 100.000 (100.000)	lr 0.00847
+Train [74][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.6803 (0.5742)	Entropy 2.03523 (2.03630)	Top-1 acc 57.031 (67.792)	Top-5 acc 100.000 (100.000)	lr 0.00816
+Train [74][57/57]	Time 0.009 (0.015)	Data Time 0.000 (0.002)	Loss 0.5358 (0.5760)	Entropy 2.03526 (2.03576)	Top-1 acc 78.571 (67.981)	Top-5 acc 100.000 (100.000)	lr 0.00790
+==========Valid [74/100]	loss 0.621	top-1 acc 72.989 (73.023)	top-5 acc 100.000	Train top-1 67.981	top-5 100.000	Entropy 2.03526	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [75][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.5916 (0.5916)	Entropy 2.03526 (2.03526)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.00789
+Train [75][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.002)	Loss 0.6537 (0.5870)	Entropy 2.03517 (2.03533)	Top-1 acc 64.062 (67.566)	Top-5 acc 100.000 (100.000)	lr 0.00759
+Train [75][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.002)	Loss 0.5299 (0.5818)	Entropy 2.03481 (2.03512)	Top-1 acc 73.214 (67.696)	Top-5 acc 100.000 (100.000)	lr 0.00733
+==========Valid [75/100]	loss 0.629	top-1 acc 68.035 (73.023)	top-5 acc 100.000	Train top-1 67.696	top-5 100.000	Entropy 2.03481	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [76][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.6184 (0.6184)	Entropy 2.03481 (2.03481)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.00732
+Train [76][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.5094 (0.5738)	Entropy 2.03037 (2.03349)	Top-1 acc 74.219 (68.196)	Top-5 acc 100.000 (100.000)	lr 0.00704
+Train [76][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.001)	Loss 0.8118 (0.5749)	Entropy 2.02792 (2.03136)	Top-1 acc 53.571 (68.145)	Top-5 acc 100.000 (100.000)	lr 0.00679
+==========Valid [76/100]	loss 0.613	top-1 acc 69.936 (73.023)	top-5 acc 100.000	Train top-1 68.145	top-5 100.000	Entropy 2.02792	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [77][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6307 (0.6307)	Entropy 2.02792 (2.02792)	Top-1 acc 65.625 (65.625)	Top-5 acc 100.000 (100.000)	lr 0.00678
+Train [77][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.002)	Loss 0.6114 (0.5851)	Entropy 2.02261 (2.02416)	Top-1 acc 64.062 (67.112)	Top-5 acc 100.000 (100.000)	lr 0.00650
+Train [77][57/57]	Time 0.007 (0.015)	Data Time 0.001 (0.002)	Loss 0.4874 (0.5773)	Entropy 2.02222 (2.02335)	Top-1 acc 73.214 (67.900)	Top-5 acc 100.000 (100.000)	lr 0.00626
+==========Valid [77/100]	loss 0.597	top-1 acc 68.341 (73.023)	top-5 acc 100.000	Train top-1 67.900	top-5 100.000	Entropy 2.02222	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [78][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5841 (0.5841)	Entropy 2.02222 (2.02222)	Top-1 acc 67.188 (67.188)	Top-5 acc 100.000 (100.000)	lr 0.00625
+Train [78][30/57]	Time 0.009 (0.015)	Data Time 0.002 (0.001)	Loss 0.5688 (0.5760)	Entropy 2.01570 (2.01924)	Top-1 acc 67.969 (67.944)	Top-5 acc 100.000 (100.000)	lr 0.00598
+Train [78][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.002)	Loss 0.5644 (0.5703)	Entropy 2.01398 (2.01713)	Top-1 acc 66.071 (68.335)	Top-5 acc 100.000 (100.000)	lr 0.00575
+==========Valid [78/100]	loss 0.597	top-1 acc 72.752 (73.023)	top-5 acc 100.000	Train top-1 68.335	top-5 100.000	Entropy 2.01398	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [79][0/57]	Time 0.010 (0.010)	Data Time 0.001 (0.001)	Loss 0.5114 (0.5114)	Entropy 2.01398 (2.01398)	Top-1 acc 71.875 (71.875)	Top-5 acc 100.000 (100.000)	lr 0.00574
+Train [79][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.001)	Loss 0.6339 (0.5873)	Entropy 2.01345 (2.01365)	Top-1 acc 64.062 (67.540)	Top-5 acc 100.000 (100.000)	lr 0.00548
+Train [79][57/57]	Time 0.013 (0.015)	Data Time 0.001 (0.001)	Loss 0.6881 (0.5838)	Entropy 2.01313 (2.01351)	Top-1 acc 55.357 (67.682)	Top-5 acc 100.000 (100.000)	lr 0.00525
+==========Valid [79/100]	loss 0.604	top-1 acc 72.854 (73.023)	top-5 acc 100.000	Train top-1 67.682	top-5 100.000	Entropy 2.01313	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [80][0/57]	Time 0.015 (0.015)	Data Time 0.002 (0.002)	Loss 0.5935 (0.5935)	Entropy 2.01313 (2.01313)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00525
+Train [80][30/57]	Time 0.010 (0.020)	Data Time 0.002 (0.002)	Loss 0.5464 (0.5762)	Entropy 2.01111 (2.01209)	Top-1 acc 67.188 (67.692)	Top-5 acc 100.000 (100.000)	lr 0.00500
+Train [80][57/57]	Time 0.007 (0.017)	Data Time 0.000 (0.002)	Loss 0.5129 (0.5736)	Entropy 2.01057 (2.01153)	Top-1 acc 76.786 (67.818)	Top-5 acc 100.000 (100.000)	lr 0.00478
+==========Valid [80/100]	loss 0.633	top-1 acc 72.345 (73.023)	top-5 acc 100.000	Train top-1 67.818	top-5 100.000	Entropy 2.01057	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [81][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.5580 (0.5580)	Entropy 2.01057 (2.01057)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00477
+Train [81][30/57]	Time 0.009 (0.017)	Data Time 0.001 (0.001)	Loss 0.5525 (0.5620)	Entropy 2.00668 (2.00887)	Top-1 acc 75.781 (69.279)	Top-5 acc 100.000 (100.000)	lr 0.00454
+Train [81][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6854 (0.5714)	Entropy 2.00613 (2.00769)	Top-1 acc 62.500 (68.743)	Top-5 acc 100.000 (100.000)	lr 0.00433
+==========Valid [81/100]	loss 0.593	top-1 acc 70.886 (73.023)	top-5 acc 100.000	Train top-1 68.743	top-5 100.000	Entropy 2.00613	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [82][0/57]	Time 0.011 (0.011)	Data Time 0.002 (0.002)	Loss 0.6153 (0.6153)	Entropy 2.00613 (2.00613)	Top-1 acc 64.062 (64.062)	Top-5 acc 100.000 (100.000)	lr 0.00432
+Train [82][30/57]	Time 0.010 (0.016)	Data Time 0.002 (0.001)	Loss 0.5594 (0.5704)	Entropy 2.00140 (2.00492)	Top-1 acc 71.875 (68.271)	Top-5 acc 100.000 (100.000)	lr 0.00410
+Train [82][57/57]	Time 0.007 (0.015)	Data Time 0.001 (0.001)	Loss 0.5349 (0.5708)	Entropy 1.99408 (2.00148)	Top-1 acc 69.643 (68.621)	Top-5 acc 100.000 (99.986)	lr 0.00390
+==========Valid [82/100]	loss 0.627	top-1 acc 67.492 (73.023)	top-5 acc 100.000	Train top-1 68.621	top-5 99.986	Entropy 1.99408	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [83][0/57]	Time 0.012 (0.012)	Data Time 0.002 (0.002)	Loss 0.5698 (0.5698)	Entropy 1.99408 (1.99408)	Top-1 acc 69.531 (69.531)	Top-5 acc 100.000 (100.000)	lr 0.00389
+Train [83][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.5299 (0.5810)	Entropy 1.98937 (1.99276)	Top-1 acc 70.312 (68.674)	Top-5 acc 100.000 (100.000)	lr 0.00368
+Train [83][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6594 (0.5802)	Entropy 1.98802 (1.99073)	Top-1 acc 67.857 (68.172)	Top-5 acc 100.000 (99.986)	lr 0.00349
+==========Valid [83/100]	loss 0.615	top-1 acc 70.309 (73.023)	top-5 acc 100.000	Train top-1 68.172	top-5 99.986	Entropy 1.98802	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [84][0/57]	Time 0.011 (0.011)	Data Time 0.003 (0.003)	Loss 0.4945 (0.4945)	Entropy 1.98802 (1.98802)	Top-1 acc 73.438 (73.438)	Top-5 acc 100.000 (100.000)	lr 0.00348
+Train [84][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.002)	Loss 0.5229 (0.5679)	Entropy 1.98276 (1.98735)	Top-1 acc 71.875 (68.851)	Top-5 acc 100.000 (100.000)	lr 0.00328
+Train [84][57/57]	Time 0.007 (0.015)	Data Time 0.001 (0.002)	Loss 0.6084 (0.5676)	Entropy 1.98012 (1.98459)	Top-1 acc 69.643 (68.879)	Top-5 acc 100.000 (100.000)	lr 0.00310
+==========Valid [84/100]	loss 0.619	top-1 acc 74.347 (74.347)	top-5 acc 100.000	Train top-1 68.879	top-5 100.000	Entropy 1.98012	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [85][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5570 (0.5570)	Entropy 1.98012 (1.98012)	Top-1 acc 71.875 (71.875)	Top-5 acc 100.000 (100.000)	lr 0.00309
+Train [85][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.001)	Loss 0.5241 (0.5597)	Entropy 1.97694 (1.97913)	Top-1 acc 74.219 (68.952)	Top-5 acc 100.000 (100.000)	lr 0.00290
+Train [85][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5210 (0.5709)	Entropy 1.97608 (1.97788)	Top-1 acc 67.857 (68.784)	Top-5 acc 100.000 (100.000)	lr 0.00273
+==========Valid [85/100]	loss 0.602	top-1 acc 69.562 (74.347)	top-5 acc 100.000	Train top-1 68.784	top-5 100.000	Entropy 1.97608	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [86][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.5107 (0.5107)	Entropy 1.97608 (1.97608)	Top-1 acc 75.000 (75.000)	Top-5 acc 100.000 (100.000)	lr 0.00272
+Train [86][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.6197 (0.5737)	Entropy 1.97500 (1.97609)	Top-1 acc 64.844 (68.523)	Top-5 acc 100.000 (99.950)	lr 0.00254
+Train [86][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.5308 (0.5647)	Entropy 1.97289 (1.97512)	Top-1 acc 67.857 (68.906)	Top-5 acc 100.000 (99.973)	lr 0.00239
+==========Valid [86/100]	loss 0.613	top-1 acc 68.612 (74.347)	top-5 acc 100.000	Train top-1 68.906	top-5 99.973	Entropy 1.97289	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [87][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.4806 (0.4806)	Entropy 1.97289 (1.97289)	Top-1 acc 75.000 (75.000)	Top-5 acc 100.000 (100.000)	lr 0.00238
+Train [87][30/57]	Time 0.010 (0.015)	Data Time 0.001 (0.001)	Loss 0.5106 (0.5740)	Entropy 1.97073 (1.97230)	Top-1 acc 73.438 (69.027)	Top-5 acc 100.000 (100.000)	lr 0.00221
+Train [87][57/57]	Time 0.009 (0.015)	Data Time 0.000 (0.001)	Loss 0.5564 (0.5723)	Entropy 1.96982 (1.97137)	Top-1 acc 69.643 (68.934)	Top-5 acc 100.000 (100.000)	lr 0.00206
+==========Valid [87/100]	loss 0.592	top-1 acc 71.734 (74.347)	top-5 acc 100.000	Train top-1 68.934	top-5 100.000	Entropy 1.96982	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [88][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5191 (0.5191)	Entropy 1.96982 (1.96982)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00206
+Train [88][30/57]	Time 0.008 (0.015)	Data Time 0.001 (0.002)	Loss 0.6486 (0.5666)	Entropy 1.96929 (1.96971)	Top-1 acc 64.062 (68.926)	Top-5 acc 100.000 (100.000)	lr 0.00190
+Train [88][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.002)	Loss 0.6027 (0.5629)	Entropy 1.96852 (1.96944)	Top-1 acc 67.857 (68.920)	Top-5 acc 100.000 (100.000)	lr 0.00176
+==========Valid [88/100]	loss 0.615	top-1 acc 73.227 (74.347)	top-5 acc 100.000	Train top-1 68.920	top-5 100.000	Entropy 1.96852	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [89][0/57]	Time 0.010 (0.010)	Data Time 0.001 (0.001)	Loss 0.5937 (0.5937)	Entropy 1.96852 (1.96852)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00176
+Train [89][30/57]	Time 0.008 (0.015)	Data Time 0.001 (0.001)	Loss 0.5481 (0.5631)	Entropy 1.96739 (1.96792)	Top-1 acc 70.312 (70.010)	Top-5 acc 100.000 (100.000)	lr 0.00161
+Train [89][57/57]	Time 0.007 (0.015)	Data Time 0.000 (0.001)	Loss 0.5436 (0.5660)	Entropy 1.96198 (1.96588)	Top-1 acc 69.643 (69.314)	Top-5 acc 100.000 (100.000)	lr 0.00148
+==========Valid [89/100]	loss 0.600	top-1 acc 71.598 (74.347)	top-5 acc 100.000	Train top-1 69.314	top-5 100.000	Entropy 1.96198	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [90][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.5439 (0.5439)	Entropy 1.96198 (1.96198)	Top-1 acc 73.438 (73.438)	Top-5 acc 100.000 (100.000)	lr 0.00148
+Train [90][30/57]	Time 0.009 (0.016)	Data Time 0.002 (0.002)	Loss 0.5404 (0.5616)	Entropy 1.96147 (1.96161)	Top-1 acc 69.531 (69.582)	Top-5 acc 100.000 (100.000)	lr 0.00134
+Train [90][57/57]	Time 0.009 (0.016)	Data Time 0.001 (0.001)	Loss 0.5660 (0.5659)	Entropy 1.95579 (1.96009)	Top-1 acc 64.286 (68.743)	Top-5 acc 100.000 (100.000)	lr 0.00123
+==========Valid [90/100]	loss 0.587	top-1 acc 73.974 (74.347)	top-5 acc 100.000	Train top-1 68.743	top-5 100.000	Entropy 1.95579	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [91][0/57]	Time 0.012 (0.012)	Data Time 0.002 (0.002)	Loss 0.6820 (0.6820)	Entropy 1.95579 (1.95579)	Top-1 acc 58.594 (58.594)	Top-5 acc 100.000 (100.000)	lr 0.00122
+Train [91][30/57]	Time 0.011 (0.015)	Data Time 0.002 (0.002)	Loss 0.4781 (0.5599)	Entropy 1.95507 (1.95529)	Top-1 acc 74.219 (69.733)	Top-5 acc 100.000 (100.000)	lr 0.00110
+Train [91][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.002)	Loss 0.6251 (0.5643)	Entropy 1.94841 (1.95336)	Top-1 acc 66.071 (69.138)	Top-5 acc 100.000 (100.000)	lr 0.00100
+==========Valid [91/100]	loss 0.580	top-1 acc 73.532 (74.347)	top-5 acc 100.000	Train top-1 69.138	top-5 100.000	Entropy 1.94841	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [92][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.7615 (0.7615)	Entropy 1.94841 (1.94841)	Top-1 acc 56.250 (56.250)	Top-5 acc 100.000 (100.000)	lr 0.00099
+Train [92][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6430 (0.5623)	Entropy 1.94683 (1.94731)	Top-1 acc 61.719 (68.952)	Top-5 acc 100.000 (100.000)	lr 0.00088
+Train [92][57/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.6114 (0.5646)	Entropy 1.94567 (1.94686)	Top-1 acc 67.857 (69.042)	Top-5 acc 100.000 (100.000)	lr 0.00079
+==========Valid [92/100]	loss 0.600	top-1 acc 68.171 (74.347)	top-5 acc 100.000	Train top-1 69.042	top-5 100.000	Entropy 1.94567	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [93][0/57]	Time 0.012 (0.012)	Data Time 0.002 (0.002)	Loss 0.5424 (0.5424)	Entropy 1.94567 (1.94567)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00079
+Train [93][30/57]	Time 0.008 (0.016)	Data Time 0.001 (0.001)	Loss 0.5443 (0.5662)	Entropy 1.93981 (1.94271)	Top-1 acc 67.188 (68.649)	Top-5 acc 100.000 (100.000)	lr 0.00069
+Train [93][57/57]	Time 0.007 (0.016)	Data Time 0.000 (0.001)	Loss 0.5543 (0.5685)	Entropy 1.93401 (1.94034)	Top-1 acc 66.071 (68.716)	Top-5 acc 100.000 (100.000)	lr 0.00061
+==========Valid [93/100]	loss 0.655	top-1 acc 68.985 (74.347)	top-5 acc 100.000	Train top-1 68.716	top-5 100.000	Entropy 1.93401	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [94][0/57]	Time 0.009 (0.009)	Data Time 0.002 (0.002)	Loss 0.5470 (0.5470)	Entropy 1.93401 (1.93401)	Top-1 acc 70.312 (70.312)	Top-5 acc 100.000 (100.000)	lr 0.00060
+Train [94][30/57]	Time 0.008 (0.015)	Data Time 0.002 (0.001)	Loss 0.6369 (0.5765)	Entropy 1.93324 (1.93377)	Top-1 acc 67.969 (68.498)	Top-5 acc 100.000 (100.000)	lr 0.00052
+Train [94][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.001)	Loss 0.5406 (0.5695)	Entropy 1.93042 (1.93318)	Top-1 acc 69.643 (68.947)	Top-5 acc 100.000 (100.000)	lr 0.00045
+==========Valid [94/100]	loss 0.591	top-1 acc 73.431 (74.347)	top-5 acc 100.000	Train top-1 68.947	top-5 100.000	Entropy 1.93042	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [95][0/57]	Time 0.010 (0.010)	Data Time 0.001 (0.001)	Loss 0.6159 (0.6159)	Entropy 1.93042 (1.93042)	Top-1 acc 66.406 (66.406)	Top-5 acc 100.000 (100.000)	lr 0.00044
+Train [95][30/57]	Time 0.010 (0.014)	Data Time 0.002 (0.002)	Loss 0.6042 (0.5790)	Entropy 1.92986 (1.93001)	Top-1 acc 67.969 (68.448)	Top-5 acc 100.000 (99.975)	lr 0.00037
+Train [95][57/57]	Time 0.008 (0.014)	Data Time 0.000 (0.001)	Loss 0.5452 (0.5692)	Entropy 1.92922 (1.92986)	Top-1 acc 73.214 (68.743)	Top-5 acc 100.000 (99.986)	lr 0.00031
+==========Valid [95/100]	loss 0.611	top-1 acc 72.243 (74.347)	top-5 acc 100.000	Train top-1 68.743	top-5 99.986	Entropy 1.92922	Latency-mobile: 0.280ms	Flops: 2.09M
+Train [96][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5906 (0.5906)	Entropy 1.92922 (1.92922)	Top-1 acc 73.438 (73.438)	Top-5 acc 100.000 (100.000)	lr 0.00031
+Train [96][30/57]	Time 0.010 (0.015)	Data Time 0.002 (0.002)	Loss 0.5805 (0.5658)	Entropy 1.92899 (1.92907)	Top-1 acc 64.844 (68.574)	Top-5 acc 100.000 (100.000)	lr 0.00025
+Train [96][57/57]	Time 0.007 (0.014)	Data Time 0.000 (0.002)	Loss 0.5454 (0.5630)	Entropy 1.92870 (1.92892)	Top-1 acc 67.857 (68.920)	Top-5 acc 100.000 (100.000)	lr 0.00020
+==========Valid [96/100]	loss 0.589	top-1 acc 70.716 (74.347)	top-5 acc 100.000	Train top-1 68.920	top-5 100.000	Entropy 1.92870	Latency-mobile: 0.167ms	Flops: 2.09M
+Train [97][0/57]	Time 0.012 (0.012)	Data Time 0.002 (0.002)	Loss 0.5260 (0.5260)	Entropy 1.92870 (1.92870)	Top-1 acc 73.438 (73.438)	Top-5 acc 100.000 (100.000)	lr 0.00020
+Train [97][30/57]	Time 0.009 (0.016)	Data Time 0.001 (0.002)	Loss 0.5800 (0.5734)	Entropy 1.92469 (1.92758)	Top-1 acc 65.625 (68.296)	Top-5 acc 100.000 (100.000)	lr 0.00015
+Train [97][57/57]	Time 0.007 (0.015)	Data Time 0.000 (0.002)	Loss 0.5741 (0.5726)	Entropy 1.92297 (1.92592)	Top-1 acc 64.286 (68.675)	Top-5 acc 100.000 (100.000)	lr 0.00011
+==========Valid [97/100]	loss 0.609	top-1 acc 72.141 (74.347)	top-5 acc 100.000	Train top-1 68.675	top-5 100.000	Entropy 1.92297	Latency-mobile: 0.167ms	Flops: 2.09M
+Train [98][0/57]	Time 0.012 (0.012)	Data Time 0.003 (0.003)	Loss 0.5793 (0.5793)	Entropy 1.92297 (1.92297)	Top-1 acc 67.969 (67.969)	Top-5 acc 100.000 (100.000)	lr 0.00011
+Train [98][30/57]	Time 0.010 (0.015)	Data Time 0.001 (0.002)	Loss 0.5656 (0.5760)	Entropy 1.92211 (1.92247)	Top-1 acc 64.062 (68.548)	Top-5 acc 100.000 (99.975)	lr 0.00008
+Train [98][57/57]	Time 0.008 (0.015)	Data Time 0.001 (0.002)	Loss 0.4753 (0.5721)	Entropy 1.92176 (1.92228)	Top-1 acc 75.000 (68.906)	Top-5 acc 100.000 (99.973)	lr 0.00005
+==========Valid [98/100]	loss 0.589	top-1 acc 70.377 (74.347)	top-5 acc 100.000	Train top-1 68.906	top-5 99.973	Entropy 1.92176	Latency-mobile: 0.167ms	Flops: 2.09M
+Train [99][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5597 (0.5597)	Entropy 1.92176 (1.92176)	Top-1 acc 71.094 (71.094)	Top-5 acc 100.000 (100.000)	lr 0.00005
+Train [99][30/57]	Time 0.009 (0.014)	Data Time 0.001 (0.002)	Loss 0.5678 (0.5684)	Entropy 1.92044 (1.92079)	Top-1 acc 66.406 (69.178)	Top-5 acc 100.000 (100.000)	lr 0.00003
+Train [99][57/57]	Time 0.010 (0.015)	Data Time 0.001 (0.002)	Loss 0.4487 (0.5653)	Entropy 1.92023 (1.92058)	Top-1 acc 78.571 (69.083)	Top-5 acc 100.000 (100.000)	lr 0.00001
+==========Valid [99/100]	loss 0.597	top-1 acc 72.684 (74.347)	top-5 acc 100.000	Train top-1 69.083	top-5 100.000	Entropy 1.92023	Latency-mobile: 0.167ms	Flops: 2.09M
+Train [100][0/57]	Time 0.010 (0.010)	Data Time 0.002 (0.002)	Loss 0.5045 (0.5045)	Entropy 1.92023 (1.92023)	Top-1 acc 67.188 (67.188)	Top-5 acc 100.000 (100.000)	lr 0.00001
+Train [100][30/57]	Time 0.011 (0.016)	Data Time 0.002 (0.001)	Loss 0.5714 (0.5732)	Entropy 1.91584 (1.91729)	Top-1 acc 75.000 (68.322)	Top-5 acc 100.000 (100.000)	lr 0.00000
+Train [100][57/57]	Time 0.007 (0.015)	Data Time 0.001 (0.001)	Loss 0.6618 (0.5692)	Entropy 1.91421 (1.91626)	Top-1 acc 62.500 (68.879)	Top-5 acc 100.000 (100.000)	lr 0.00000
+==========Valid [100/100]	loss 0.592	top-1 acc 67.628 (74.347)	top-5 acc 100.000	Train top-1 68.879	top-5 100.000	Entropy 1.91421	Latency-mobile: 0.167ms	Flops: 2.09M

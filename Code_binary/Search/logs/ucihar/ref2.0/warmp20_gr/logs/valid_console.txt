@@ -1,0 +1,120 @@
+Warmup Valid [1/20]	loss 1.614	top-1 acc 25.144	top-5 acc 91.347	Train top-1 31.978	top-5 97.225	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [2/20]	loss 2.079	top-1 acc 20.326	top-5 acc 88.633	Train top-1 34.548	top-5 99.619	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [3/20]	loss 1.486	top-1 acc 29.114	top-5 acc 94.910	Train top-1 36.425	top-5 99.932	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [4/20]	loss 1.260	top-1 acc 32.677	top-5 acc 98.541	Train top-1 38.207	top-5 99.973	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [5/20]	loss 1.169	top-1 acc 33.186	top-5 acc 99.830	Train top-1 40.112	top-5 99.946	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [6/20]	loss 1.060	top-1 acc 39.260	top-5 acc 100.000	Train top-1 40.873	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [7/20]	loss 1.167	top-1 acc 35.528	top-5 acc 100.000	Train top-1 42.301	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [8/20]	loss 1.028	top-1 acc 42.552	top-5 acc 100.000	Train top-1 43.471	top-5 99.959	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [9/20]	loss 1.021	top-1 acc 40.753	top-5 acc 100.000	Train top-1 44.355	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [10/20]	loss 0.996	top-1 acc 43.739	top-5 acc 100.000	Train top-1 44.614	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [11/20]	loss 1.008	top-1 acc 43.264	top-5 acc 100.000	Train top-1 45.661	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [12/20]	loss 1.008	top-1 acc 43.943	top-5 acc 100.000	Train top-1 46.640	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [13/20]	loss 0.993	top-1 acc 44.520	top-5 acc 100.000	Train top-1 47.810	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [14/20]	loss 0.990	top-1 acc 44.588	top-5 acc 100.000	Train top-1 48.749	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [15/20]	loss 0.981	top-1 acc 44.690	top-5 acc 100.000	Train top-1 47.892	top-5 99.986	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [16/20]	loss 0.969	top-1 acc 45.606	top-5 acc 100.000	Train top-1 49.293	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [17/20]	loss 0.974	top-1 acc 45.097	top-5 acc 100.000	Train top-1 50.394	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [18/20]	loss 0.965	top-1 acc 45.809	top-5 acc 100.000	Train top-1 51.183	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [19/20]	loss 0.964	top-1 acc 45.809	top-5 acc 100.000	Train top-1 51.088	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Warmup Valid [20/20]	loss 0.962	top-1 acc 45.640	top-5 acc 100.000	Train top-1 50.408	top-5 100.000	flops: 1.5M	mobile: 0.321ms
+Valid [1/100]	loss 0.954	top-1 acc 46.997 (46.997)	top-5 acc 100.000	Train top-1 46.396	top-5 99.986	Entropy 2.15796	Latency-mobile: 0.321ms	Flops: 1.47M
+Valid [2/100]	loss 0.919	top-1 acc 48.422 (48.422)	top-5 acc 100.000	Train top-1 47.837	top-5 99.986	Entropy 2.15021	Latency-mobile: 0.464ms	Flops: 1.92M
+Valid [3/100]	loss 1.079	top-1 acc 40.244 (48.422)	top-5 acc 99.966	Train top-1 48.585	top-5 99.986	Entropy 2.12938	Latency-mobile: 0.464ms	Flops: 1.92M
+Valid [4/100]	loss 1.196	top-1 acc 36.953 (48.422)	top-5 acc 99.593	Train top-1 45.715	top-5 100.000	Entropy 2.11850	Latency-mobile: 0.344ms	Flops: 1.79M
+Valid [5/100]	loss 1.601	top-1 acc 32.100 (48.422)	top-5 acc 100.000	Train top-1 45.675	top-5 99.714	Entropy 2.12060	Latency-mobile: 0.345ms	Flops: 1.60M
+Valid [6/100]	loss 0.968	top-1 acc 51.069 (51.069)	top-5 acc 100.000	Train top-1 43.702	top-5 99.538	Entropy 2.11108	Latency-mobile: 0.345ms	Flops: 1.60M
+Valid [7/100]	loss 0.914	top-1 acc 49.135 (51.069)	top-5 acc 100.000	Train top-1 46.396	top-5 99.905	Entropy 2.11037	Latency-mobile: 0.360ms	Flops: 1.79M
+Valid [8/100]	loss 1.034	top-1 acc 45.504 (51.069)	top-5 acc 100.000	Train top-1 47.837	top-5 99.986	Entropy 2.12042	Latency-mobile: 0.489ms	Flops: 2.04M
+Valid [9/100]	loss 0.863	top-1 acc 50.933 (51.069)	top-5 acc 100.000	Train top-1 48.980	top-5 99.986	Entropy 2.11047	Latency-mobile: 0.360ms	Flops: 1.79M
+Valid [10/100]	loss 0.873	top-1 acc 53.444 (53.444)	top-5 acc 100.000	Train top-1 47.987	top-5 99.878	Entropy 2.09915	Latency-mobile: 0.474ms	Flops: 1.84M
+Valid [11/100]	loss 0.799	top-1 acc 57.279 (57.279)	top-5 acc 99.966	Train top-1 49.986	top-5 99.878	Entropy 2.08406	Latency-mobile: 0.344ms	Flops: 1.79M
+Valid [12/100]	loss 0.899	top-1 acc 52.664 (57.279)	top-5 acc 99.932	Train top-1 51.510	top-5 99.946	Entropy 2.10380	Latency-mobile: 0.344ms	Flops: 1.79M
+Valid [13/100]	loss 0.892	top-1 acc 56.396 (57.279)	top-5 acc 99.932	Train top-1 48.925	top-5 99.728	Entropy 2.09659	Latency-mobile: 0.344ms	Flops: 1.79M
+Valid [14/100]	loss 0.937	top-1 acc 54.157 (57.279)	top-5 acc 100.000	Train top-1 49.075	top-5 99.674	Entropy 2.08990	Latency-mobile: 0.344ms	Flops: 1.79M
+Valid [15/100]	loss 0.776	top-1 acc 61.079 (61.079)	top-5 acc 100.000	Train top-1 50.286	top-5 99.742	Entropy 2.09226	Latency-mobile: 0.344ms	Flops: 1.79M
+Valid [16/100]	loss 0.765	top-1 acc 60.842 (61.079)	top-5 acc 100.000	Train top-1 52.326	top-5 99.918	Entropy 2.09569	Latency-mobile: 0.308ms	Flops: 1.49M
+Valid [17/100]	loss 0.788	top-1 acc 58.127 (61.079)	top-5 acc 99.898	Train top-1 50.939	top-5 99.782	Entropy 2.08248	Latency-mobile: 0.333ms	Flops: 1.67M
+Valid [18/100]	loss 0.784	top-1 acc 56.837 (61.079)	top-5 acc 100.000	Train top-1 53.808	top-5 99.918	Entropy 2.07176	Latency-mobile: 0.333ms	Flops: 1.67M
+Valid [19/100]	loss 0.797	top-1 acc 56.532 (61.079)	top-5 acc 100.000	Train top-1 55.332	top-5 99.918	Entropy 2.06472	Latency-mobile: 0.333ms	Flops: 1.67M
+Valid [20/100]	loss 0.738	top-1 acc 62.436 (62.436)	top-5 acc 100.000	Train top-1 57.018	top-5 99.959	Entropy 2.05459	Latency-mobile: 0.324ms	Flops: 1.49M
+Valid [21/100]	loss 0.917	top-1 acc 55.039 (62.436)	top-5 acc 99.932	Train top-1 56.719	top-5 99.878	Entropy 2.04031	Latency-mobile: 0.324ms	Flops: 1.49M
+Valid [22/100]	loss 0.802	top-1 acc 58.059 (62.436)	top-5 acc 100.000	Train top-1 58.338	top-5 99.932	Entropy 2.02646	Latency-mobile: 0.324ms	Flops: 1.49M
+Valid [23/100]	loss 0.862	top-1 acc 57.686 (62.436)	top-5 acc 100.000	Train top-1 55.250	top-5 99.769	Entropy 2.01836	Latency-mobile: 0.141ms	Flops: 0.61M
+Valid [24/100]	loss 0.902	top-1 acc 54.666 (62.436)	top-5 acc 99.932	Train top-1 57.236	top-5 99.946	Entropy 2.01030	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [25/100]	loss 0.876	top-1 acc 54.394 (62.436)	top-5 acc 100.000	Train top-1 57.386	top-5 99.796	Entropy 2.01856	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [26/100]	loss 1.093	top-1 acc 52.087 (62.436)	top-5 acc 100.000	Train top-1 57.440	top-5 99.687	Entropy 1.99064	Latency-mobile: 0.141ms	Flops: 0.61M
+Valid [27/100]	loss 0.774	top-1 acc 60.740 (62.436)	top-5 acc 99.864	Train top-1 58.991	top-5 99.905	Entropy 1.97387	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [28/100]	loss 1.026	top-1 acc 50.153 (62.436)	top-5 acc 99.932	Train top-1 60.473	top-5 99.864	Entropy 1.97375	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [29/100]	loss 0.822	top-1 acc 57.822 (62.436)	top-5 acc 99.932	Train top-1 59.440	top-5 99.932	Entropy 1.96254	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [30/100]	loss 0.689	top-1 acc 63.420 (63.420)	top-5 acc 100.000	Train top-1 61.181	top-5 99.932	Entropy 1.96185	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [31/100]	loss 0.663	top-1 acc 67.933 (67.933)	top-5 acc 100.000	Train top-1 61.371	top-5 99.946	Entropy 1.92874	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [32/100]	loss 0.705	top-1 acc 65.728 (67.933)	top-5 acc 100.000	Train top-1 60.160	top-5 99.932	Entropy 1.93083	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [33/100]	loss 0.635	top-1 acc 66.373 (67.933)	top-5 acc 100.000	Train top-1 61.997	top-5 100.000	Entropy 1.93868	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [34/100]	loss 0.653	top-1 acc 66.882 (67.933)	top-5 acc 100.000	Train top-1 61.099	top-5 100.000	Entropy 1.93250	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [35/100]	loss 0.654	top-1 acc 65.015 (67.933)	top-5 acc 100.000	Train top-1 61.657	top-5 99.905	Entropy 1.93188	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [36/100]	loss 0.713	top-1 acc 61.656 (67.933)	top-5 acc 99.898	Train top-1 61.521	top-5 100.000	Entropy 1.91744	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [37/100]	loss 0.640	top-1 acc 66.712 (67.933)	top-5 acc 100.000	Train top-1 60.745	top-5 99.973	Entropy 1.91812	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [38/100]	loss 0.642	top-1 acc 65.592 (67.933)	top-5 acc 100.000	Train top-1 62.296	top-5 99.973	Entropy 1.90929	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [39/100]	loss 1.006	top-1 acc 57.448 (67.933)	top-5 acc 100.000	Train top-1 61.670	top-5 99.959	Entropy 1.89598	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [40/100]	loss 0.713	top-1 acc 66.271 (67.933)	top-5 acc 100.000	Train top-1 63.180	top-5 100.000	Entropy 1.89716	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [41/100]	loss 0.651	top-1 acc 68.476 (68.476)	top-5 acc 100.000	Train top-1 62.758	top-5 100.000	Entropy 1.89770	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [42/100]	loss 0.642	top-1 acc 66.576 (68.476)	top-5 acc 100.000	Train top-1 63.833	top-5 100.000	Entropy 1.91878	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [43/100]	loss 0.695	top-1 acc 64.506 (68.476)	top-5 acc 100.000	Train top-1 64.010	top-5 100.000	Entropy 1.93786	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [44/100]	loss 0.635	top-1 acc 68.001 (68.476)	top-5 acc 99.966	Train top-1 64.309	top-5 99.973	Entropy 1.92565	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [45/100]	loss 0.658	top-1 acc 68.612 (68.612)	top-5 acc 100.000	Train top-1 64.282	top-5 100.000	Entropy 1.93722	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [46/100]	loss 0.662	top-1 acc 67.255 (68.612)	top-5 acc 100.000	Train top-1 64.227	top-5 100.000	Entropy 1.92720	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [47/100]	loss 0.619	top-1 acc 69.053 (69.053)	top-5 acc 100.000	Train top-1 65.180	top-5 100.000	Entropy 1.91110	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [48/100]	loss 0.655	top-1 acc 66.169 (69.053)	top-5 acc 100.000	Train top-1 64.404	top-5 100.000	Entropy 1.89567	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [49/100]	loss 0.644	top-1 acc 67.526 (69.053)	top-5 acc 100.000	Train top-1 65.003	top-5 100.000	Entropy 1.90025	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [50/100]	loss 0.633	top-1 acc 68.001 (69.053)	top-5 acc 100.000	Train top-1 64.309	top-5 100.000	Entropy 1.90108	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [51/100]	loss 0.621	top-1 acc 69.630 (69.630)	top-5 acc 100.000	Train top-1 64.513	top-5 99.986	Entropy 1.90277	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [52/100]	loss 0.599	top-1 acc 69.053 (69.630)	top-5 acc 100.000	Train top-1 65.003	top-5 100.000	Entropy 1.91094	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [53/100]	loss 0.612	top-1 acc 68.476 (69.630)	top-5 acc 100.000	Train top-1 64.935	top-5 100.000	Entropy 1.88281	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [54/100]	loss 0.607	top-1 acc 69.053 (69.630)	top-5 acc 100.000	Train top-1 65.370	top-5 100.000	Entropy 1.88234	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [55/100]	loss 0.608	top-1 acc 72.243 (72.243)	top-5 acc 100.000	Train top-1 65.384	top-5 100.000	Entropy 1.83638	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [56/100]	loss 0.607	top-1 acc 68.171 (72.243)	top-5 acc 100.000	Train top-1 65.819	top-5 100.000	Entropy 1.79208	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [57/100]	loss 0.603	top-1 acc 67.560 (72.243)	top-5 acc 100.000	Train top-1 64.703	top-5 100.000	Entropy 1.78800	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [58/100]	loss 0.590	top-1 acc 68.476 (72.243)	top-5 acc 100.000	Train top-1 66.159	top-5 100.000	Entropy 1.77602	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [59/100]	loss 0.593	top-1 acc 71.225 (72.243)	top-5 acc 100.000	Train top-1 66.730	top-5 100.000	Entropy 1.77614	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [60/100]	loss 0.587	top-1 acc 70.071 (72.243)	top-5 acc 100.000	Train top-1 66.104	top-5 100.000	Entropy 1.77303	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [61/100]	loss 0.582	top-1 acc 70.614 (72.243)	top-5 acc 100.000	Train top-1 66.417	top-5 100.000	Entropy 1.71473	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [62/100]	loss 0.589	top-1 acc 70.818 (72.243)	top-5 acc 100.000	Train top-1 66.553	top-5 100.000	Entropy 1.67429	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [63/100]	loss 0.606	top-1 acc 72.209 (72.243)	top-5 acc 100.000	Train top-1 66.023	top-5 100.000	Entropy 1.68276	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [64/100]	loss 0.580	top-1 acc 70.105 (72.243)	top-5 acc 100.000	Train top-1 67.954	top-5 100.000	Entropy 1.69140	Latency-mobile: 0.125ms	Flops: 0.51M
+Valid [65/100]	loss 0.625	top-1 acc 69.562 (72.243)	top-5 acc 100.000	Train top-1 67.832	top-5 100.000	Entropy 1.69699	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [66/100]	loss 0.617	top-1 acc 70.784 (72.243)	top-5 acc 100.000	Train top-1 66.866	top-5 100.000	Entropy 1.68548	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [67/100]	loss 0.601	top-1 acc 71.564 (72.243)	top-5 acc 100.000	Train top-1 66.825	top-5 100.000	Entropy 1.68249	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [68/100]	loss 0.619	top-1 acc 70.411 (72.243)	top-5 acc 100.000	Train top-1 67.097	top-5 100.000	Entropy 1.68844	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [69/100]	loss 0.603	top-1 acc 70.275 (72.243)	top-5 acc 100.000	Train top-1 67.737	top-5 100.000	Entropy 1.69254	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [70/100]	loss 0.597	top-1 acc 72.684 (72.684)	top-5 acc 100.000	Train top-1 67.029	top-5 100.000	Entropy 1.67935	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [71/100]	loss 0.594	top-1 acc 71.463 (72.684)	top-5 acc 100.000	Train top-1 66.798	top-5 100.000	Entropy 1.63851	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [72/100]	loss 0.638	top-1 acc 71.021 (72.684)	top-5 acc 100.000	Train top-1 68.961	top-5 100.000	Entropy 1.61151	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [73/100]	loss 0.603	top-1 acc 71.666 (72.684)	top-5 acc 100.000	Train top-1 68.077	top-5 100.000	Entropy 1.59744	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [74/100]	loss 0.609	top-1 acc 72.073 (72.684)	top-5 acc 100.000	Train top-1 68.186	top-5 100.000	Entropy 1.57989	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [75/100]	loss 0.621	top-1 acc 70.411 (72.684)	top-5 acc 100.000	Train top-1 68.254	top-5 100.000	Entropy 1.57985	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [76/100]	loss 0.597	top-1 acc 72.311 (72.684)	top-5 acc 100.000	Train top-1 68.458	top-5 100.000	Entropy 1.56896	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [77/100]	loss 0.614	top-1 acc 71.802 (72.684)	top-5 acc 100.000	Train top-1 69.219	top-5 100.000	Entropy 1.58090	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [78/100]	loss 0.592	top-1 acc 73.261 (73.261)	top-5 acc 100.000	Train top-1 68.879	top-5 100.000	Entropy 1.56264	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [79/100]	loss 0.609	top-1 acc 73.804 (73.804)	top-5 acc 100.000	Train top-1 68.349	top-5 100.000	Entropy 1.59421	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [80/100]	loss 0.596	top-1 acc 74.245 (74.245)	top-5 acc 100.000	Train top-1 69.192	top-5 100.000	Entropy 1.57646	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [81/100]	loss 0.585	top-1 acc 73.498 (74.245)	top-5 acc 100.000	Train top-1 69.206	top-5 100.000	Entropy 1.57479	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [82/100]	loss 0.586	top-1 acc 75.195 (75.195)	top-5 acc 100.000	Train top-1 69.138	top-5 100.000	Entropy 1.53554	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [83/100]	loss 0.580	top-1 acc 75.229 (75.229)	top-5 acc 100.000	Train top-1 69.056	top-5 100.000	Entropy 1.53722	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [84/100]	loss 0.585	top-1 acc 75.297 (75.297)	top-5 acc 100.000	Train top-1 69.478	top-5 100.000	Entropy 1.53813	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [85/100]	loss 0.581	top-1 acc 75.127 (75.297)	top-5 acc 100.000	Train top-1 67.873	top-5 100.000	Entropy 1.54737	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [86/100]	loss 0.576	top-1 acc 75.025 (75.297)	top-5 acc 100.000	Train top-1 70.117	top-5 100.000	Entropy 1.55509	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [87/100]	loss 0.585	top-1 acc 75.365 (75.365)	top-5 acc 100.000	Train top-1 69.587	top-5 100.000	Entropy 1.52663	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [88/100]	loss 0.578	top-1 acc 76.179 (76.179)	top-5 acc 100.000	Train top-1 69.342	top-5 100.000	Entropy 1.53692	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [89/100]	loss 0.584	top-1 acc 75.840 (76.179)	top-5 acc 100.000	Train top-1 70.103	top-5 100.000	Entropy 1.54779	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [90/100]	loss 0.586	top-1 acc 75.195 (76.179)	top-5 acc 100.000	Train top-1 69.763	top-5 100.000	Entropy 1.50493	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [91/100]	loss 0.580	top-1 acc 76.111 (76.179)	top-5 acc 100.000	Train top-1 70.076	top-5 100.000	Entropy 1.52478	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [92/100]	loss 0.571	top-1 acc 75.908 (76.179)	top-5 acc 100.000	Train top-1 70.443	top-5 100.000	Entropy 1.51369	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [93/100]	loss 0.577	top-1 acc 75.976 (76.179)	top-5 acc 100.000	Train top-1 69.818	top-5 100.000	Entropy 1.50648	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [94/100]	loss 0.574	top-1 acc 75.976 (76.179)	top-5 acc 100.000	Train top-1 70.593	top-5 100.000	Entropy 1.51242	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [95/100]	loss 0.578	top-1 acc 75.772 (76.179)	top-5 acc 100.000	Train top-1 71.015	top-5 100.000	Entropy 1.50034	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [96/100]	loss 0.566	top-1 acc 76.485 (76.485)	top-5 acc 100.000	Train top-1 70.770	top-5 100.000	Entropy 1.49044	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [97/100]	loss 0.588	top-1 acc 75.636 (76.485)	top-5 acc 100.000	Train top-1 69.546	top-5 100.000	Entropy 1.46686	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [98/100]	loss 0.572	top-1 acc 76.111 (76.485)	top-5 acc 100.000	Train top-1 70.022	top-5 100.000	Entropy 1.46554	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [99/100]	loss 0.577	top-1 acc 76.010 (76.485)	top-5 acc 100.000	Train top-1 69.587	top-5 100.000	Entropy 1.44409	Latency-mobile: 0.126ms	Flops: 0.41M
+Valid [100/100]	loss 0.581	top-1 acc 75.467 (76.485)	top-5 acc 100.000	Train top-1 70.566	top-5 100.000	Entropy 1.43615	Latency-mobile: 0.126ms	Flops: 0.41M
